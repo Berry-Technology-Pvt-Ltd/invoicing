@@ -1,0 +1,4826 @@
+{
+  "invoices": [
+    {
+      "product": "QB AMC",
+      "customer": "Crystal Property Group",
+      "start_day": 1,
+      "start_month": 6,
+      "start_year": 2023,
+      "end_day": 30,
+      "end_month": 11,
+      "end_year": 2023,
+      "amount": 20000.0,
+      "memo": "QuickBooks Annual Maintenance \nFrom June 2023 to Nov 2023"
+    },
+    {
+      "product": "QB AMC",
+      "customer": "Asia Securities (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 6,
+      "start_year": 2023,
+      "end_day": 31,
+      "end_month": 5,
+      "end_year": 2024,
+      "amount": 100000.0,
+      "memo": "QuickBooks Local Support Service\nJune 2023 - May 2024"
+    },
+    {
+      "product": "QB AMC",
+      "customer": "SF Group (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 8,
+      "start_year": 2023,
+      "end_day": 31,
+      "end_month": 7,
+      "end_year": 2024,
+      "amount": 20000.0,
+      "memo": "QuickBooks Annual Maintenance Service - Annual Contract\nAug 2023 - July 2024"
+    },
+    {
+      "product": "QB AMC",
+      "customer": "AVS Holdings (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 7,
+      "start_year": 2023,
+      "end_day": 30,
+      "end_month": 6,
+      "end_year": 2024,
+      "amount": 25000.0,
+      "memo": "QuickBooks Annual Maintenance from July 2023 to June 2024"
+    },
+    {
+      "product": "QB AMC",
+      "customer": "AIBT Campus",
+      "start_day": 1,
+      "start_month": 10,
+      "start_year": 2023,
+      "end_day": 30,
+      "end_month": 9,
+      "end_year": 2024,
+      "amount": 20000.0,
+      "memo": "QuickBooks Annual Maintenance -2023/24\nOct 2023 - Sep 2024\n(QuickBooks Pro 2019 - 3 Databases)"
+    },
+    {
+      "product": "QB AMC",
+      "customer": "Crystal Property Group",
+      "start_day": 1,
+      "start_month": 12,
+      "start_year": 2023,
+      "end_day": 30,
+      "end_month": 11,
+      "end_year": 2024,
+      "amount": 50000.0,
+      "memo": "QuickBooks Annual Maintenance \nFrom December 2023 to November 2024"
+    },
+    {
+      "product": "QB AMC",
+      "customer": "Abesinghe Farm House",
+      "start_day": 1,
+      "start_month": 11,
+      "start_year": 2023,
+      "end_day": 31,
+      "end_month": 10,
+      "end_year": 2024,
+      "amount": 35000.0,
+      "memo": "QuickBooks Annual Maintenance\nFrom November 2023 to October 2024"
+    },
+    {
+      "product": "QB AMC",
+      "customer": "Transport Connectivity & Asset Management Project (TCAMP) - Road Development Authority",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 12,
+      "end_year": 2024,
+      "amount": 20000.0,
+      "memo": "QuickBooks Annual Maintenance \nJanuary 2024 - December 2024"
+    },
+    {
+      "product": "QB AMC",
+      "customer": "Transport Connectivity and Asset Management Project",
+      "start_day": 1,
+      "start_month": 12,
+      "start_year": 2023,
+      "end_day": 30,
+      "end_month": 11,
+      "end_year": 2024,
+      "amount": 15000.0,
+      "memo": "QuickBooks Annual Maintenance \nDecember 2023 - November 2024"
+    },
+    {
+      "product": "QB AMC",
+      "customer": "Frankils Developments (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 2,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 1,
+      "end_year": 2025,
+      "amount": 20000.0,
+      "memo": "QuickBooks Annual Maintenance and Support for QBO Plus\nFeb 2024 - Jan 2025"
+    },
+    {
+      "product": "QB AMC",
+      "customer": "Sri Delivery:Meethirigala Nissarana Wanaya Sanrakshana Mandalaya",
+      "start_day": 1,
+      "start_month": 4,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 3,
+      "end_year": 2025,
+      "amount": 20000.0,
+      "memo": "QuickBooks Annual Maintenance and Support \nQuickBooks Desktop Version (Pro 2019) - Single User\nApr 2024 - Mar 2025"
+    },
+    {
+      "product": "QB AMC",
+      "customer": "Rovenka Holdings (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 4,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 3,
+      "end_year": 2025,
+      "amount": 20000.0,
+      "memo": "QuickBooks Annual Maintenance and Support \nQuickBooks Desktop Version (Premier 2021) (USA)\n(2 Users)\nApr 2024 - Mar 2025"
+    },
+    {
+      "product": "QB AMC",
+      "customer": "Asia Securities (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 5,
+      "end_year": 2025,
+      "amount": 110000.0,
+      "memo": "QuickBooks Local Support ServiceJune 2024 - May 2025"
+    },
+    {
+      "product": "QB AMC",
+      "customer": "AVS Holdings (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 7,
+      "start_year": 2024,
+      "end_day": 30,
+      "end_month": 6,
+      "end_year": 2025,
+      "amount": 27500.0,
+      "memo": "QuickBooks Annual Maintenance from July 2024 to June 2025"
+    },
+    {
+      "product": "QB AMC",
+      "customer": "OLA Bookshop (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 7,
+      "start_year": 2024,
+      "end_day": 30,
+      "end_month": 6,
+      "end_year": 2025,
+      "amount": 20000.0,
+      "memo": "QuickBooks Annual Maintenance July 2024 - June 2025"
+    },
+    {
+      "product": "QB AMC",
+      "customer": "SF Group (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 7,
+      "end_year": 2025,
+      "amount": 20000.0,
+      "memo": "QuickBooks Annual Maintenance Service - Annual ContractAug 2024 - July 2025"
+    },
+    {
+      "product": "QB AMC",
+      "customer": "Mallika Hemachandra Jewellers (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 8,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 7,
+      "end_year": 2025,
+      "amount": 25000.0,
+      "memo": "QuickBooks Annual Maintenance Fee - QB Pro 2015Aug 2024 - July 20253 PCs Covered"
+    },
+    {
+      "product": "QB AMC",
+      "customer": "AIBT Campus",
+      "start_day": 1,
+      "start_month": 10,
+      "start_year": 2024,
+      "end_day": 30,
+      "end_month": 9,
+      "end_year": 2025,
+      "amount": 20000.0,
+      "memo": "QuickBooks Annual Maintenance -2024/25Oct 2024 - Sep 2025(QuickBooks Pro 2019 - 3 Databases)"
+    },
+    {
+      "product": "QB AMC",
+      "customer": "Crystal Property Group",
+      "start_day": 1,
+      "start_month": 12,
+      "start_year": 2024,
+      "end_day": 30,
+      "end_month": 11,
+      "end_year": 2025,
+      "amount": 55000.0,
+      "memo": "QuickBooks Annual Maintenance From December 2024 to November 2025"
+    },
+    {
+      "product": "QB AMC",
+      "customer": "Crystal Property Group:The Six Villas",
+      "start_day": 1,
+      "start_month": 10,
+      "start_year": 2024,
+      "end_day": 30,
+      "end_month": 9,
+      "end_year": 2025,
+      "amount": 55000.0,
+      "memo": "QuickBooks Annual Maintenance From October 2024 to September 2025"
+    },
+    {
+      "product": "QB AMC",
+      "customer": "North West Marine (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 9,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 8,
+      "end_year": 2025,
+      "amount": 30000.0,
+      "memo": "QuickBooks Annual Maintenance From September 2024 to August 2025"
+    },
+    {
+      "product": "QB AMC",
+      "customer": "Abesinghe Farm House",
+      "start_day": 1,
+      "start_month": 11,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 10,
+      "end_year": 2025,
+      "amount": 36000.0,
+      "memo": "QuickBooks Annual MaintenanceQb Premier 2020 with Free Update to 2021 - 3 UsersFrom November 2024 to October 2025"
+    },
+    {
+      "product": "QB AMC",
+      "customer": "Fine Care Pharmaceuticals (Pvt) Ltd",
+      "start_day": 28,
+      "start_month": 11,
+      "start_year": 2024,
+      "end_day": 27,
+      "end_month": 11,
+      "end_year": 2025,
+      "amount": 15000.0,
+      "memo": "QuickBooks Support and Annual Maintenance 28 Nov 2024 - 27 Nov 2025"
+    },
+    {
+      "product": "QB AMC",
+      "customer": "Transport Connectivity and Asset Management Project",
+      "start_day": 1,
+      "start_month": 12,
+      "start_year": 2024,
+      "end_day": 30,
+      "end_month": 11,
+      "end_year": 2025,
+      "amount": 15000.0,
+      "memo": "QuickBooks Annual Maintenance December 2024 - November 2025"
+    },
+    {
+      "product": "QB AMC",
+      "customer": "Asia Securities (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 6,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 5,
+      "end_year": 2026,
+      "amount": 110000.0,
+      "memo": "QuickBooks Local Support Service\nJune 2025 - May 2026"
+    },
+    {
+      "product": "QB AMC",
+      "customer": "SF Group (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 8,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 7,
+      "end_year": 2026,
+      "amount": 20000.0,
+      "memo": "QuickBooks Annual Maintenance Service - Annual Contract\nAug 2025- July 2026"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Sun Queen Garments (Private) Limited",
+      "start_day": 1,
+      "start_month": 3,
+      "start_year": 2023,
+      "end_day": 29,
+      "end_month": 2,
+      "end_year": 2024,
+      "amount": 264000.0,
+      "memo": "QuickBooks with Cloud Hosting - 4 Users(Mar 2023- Feb 2024)"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "SUN QUEEN APPAREL (PRIVATE) LIMITED",
+      "start_day": 1,
+      "start_month": 3,
+      "start_year": 2023,
+      "end_day": 29,
+      "end_month": 2,
+      "end_year": 2024,
+      "amount": 198000.0,
+      "memo": "QuickBooks with Cloud Hosting - 3 users from March 2023 to Feb 2024Rs. 5,500 per user per month * 3 users * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Lead the Way Girls International (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 3,
+      "start_year": 2023,
+      "end_day": 31,
+      "end_month": 5,
+      "end_year": 2023,
+      "amount": 9900.0,
+      "memo": "QuickBooks with Cloud Hosting _ Single User\nFrom Mar 2023 -  May 2023\n(Rs. 3,300*3 months)"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Medilink Lanka (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 4,
+      "start_year": 2023,
+      "end_day": 30,
+      "end_month": 6,
+      "end_year": 2023,
+      "amount": 9900.0,
+      "memo": "QuickBooks with Cloud Hosting - Single User(Rs.3,300per User* 3 months)Apr 2023 - June 2023"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Vista Multi Trading Company (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 4,
+      "start_year": 2023,
+      "end_day": 31,
+      "end_month": 3,
+      "end_year": 2024,
+      "amount": 60000.0,
+      "memo": "QuickBooks with Cloud Hosting (recurring) - Galle (Vista4)\nRs. 5,000 per user per month * 12 months\n1 Apr 2023 - 31 Mar 2024"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Reitzel Walker (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 4,
+      "start_year": 2023,
+      "end_day": 30,
+      "end_month": 6,
+      "end_year": 2023,
+      "amount": 72000.0,
+      "memo": "QuickBooks with Cloud Hosting\nFrom Apr 2023 - June 2023\n(Rs. 6,000* 4 Users* 3 months)"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Bluestone Capital (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 4,
+      "start_year": 2023,
+      "end_day": 31,
+      "end_month": 3,
+      "end_year": 2024,
+      "amount": 68304.0,
+      "memo": "Bluestone Capital (Pvt) Ltd\nQuickBooks with Cloud Hosting from April 2023 to March 2024\nRs. 5,692 per user * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Bluestone Capital (Pvt) Ltd:Bluestone 1 (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 4,
+      "start_year": 2023,
+      "end_day": 31,
+      "end_month": 3,
+      "end_year": 2024,
+      "amount": 39600.0,
+      "memo": "Bluestone 1 (Pvt) Ltd\nQuickBooks with Cloud Hosting from April 2023 to March 2024\nRs. 3,300 per user * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Bluestone Capital (Pvt) Ltd:Bluestone 2 (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 4,
+      "start_year": 2023,
+      "end_day": 31,
+      "end_month": 3,
+      "end_year": 2024,
+      "amount": 39600.0,
+      "memo": "Bluestone 2 (Pvt) Ltd\nQuickBooks with Cloud Hosting from April 2023 to March 2024\nRs. 3,300 per user * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Bluestone Capital (Pvt) Ltd:Bluestone 3 (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 4,
+      "start_year": 2023,
+      "end_day": 31,
+      "end_month": 3,
+      "end_year": 2024,
+      "amount": 39600.0,
+      "memo": "Bluestone 3 (Pvt) Ltd\nQuickBooks with Cloud Hosting from April 2023 to March 2024\nRs. 3,300 per user * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Federation of Information Technology Industry Sri Lanka",
+      "start_day": 1,
+      "start_month": 4,
+      "start_year": 2023,
+      "end_day": 31,
+      "end_month": 3,
+      "end_year": 2024,
+      "amount": 66000.0,
+      "memo": "QuickBooks with Cloud Hosting - 1 server user\nApr 2023 - Mar 2024\nRs. 5,500 per month * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Karunaya Lanka (GTE) Ltd",
+      "start_day": 1,
+      "start_month": 6,
+      "start_year": 2023,
+      "end_day": 31,
+      "end_month": 5,
+      "end_year": 2024,
+      "amount": 66000.0,
+      "memo": "QuickBooks with Cloud Hosting (From June 2023 - May 2024)\n(Rs. 5,500 per User * 12 months)"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Wardena Group:Megachem Engineering (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2023,
+      "end_day": 31,
+      "end_month": 10,
+      "end_year": 2023,
+      "amount": 66000.0,
+      "memo": "QuickBooks Premier with Cloud Hosting - Two Users(HSR 1 & HSR 3)Rs. 5,500 per User * 6 months * 2 UsersMay 2023 to October 2023"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Lalan Eco-latex Pvt Ltd",
+      "start_day": 1,
+      "start_month": 5,
+      "start_year": 2023,
+      "end_day": 30,
+      "end_month": 4,
+      "end_year": 2024,
+      "amount": 288000.0,
+      "memo": "QuickBooks with Cloud Hosting\nRs. 6,000 per user per month * 12 months * 4 users\nMay 2023 - April 2024"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Sri Delivery",
+      "start_day": 1,
+      "start_month": 5,
+      "start_year": 2023,
+      "end_day": 30,
+      "end_month": 4,
+      "end_year": 2024,
+      "amount": 144000.0,
+      "memo": "QuickBooks with Cloud Hosting\nRs. 6,000 per user per month * 2 users * 12 months\nMay 2023 - April 2024"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Street Burger (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 5,
+      "start_year": 2023,
+      "end_day": 30,
+      "end_month": 4,
+      "end_year": 2024,
+      "amount": 36000.0,
+      "memo": "QuickBooks with Cloud Hosting \nRs. 6,000 per user per month * 12 months * 2 users\nMay 2023 - April 2024"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Lead the Way Girls International (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 6,
+      "start_year": 2023,
+      "end_day": 31,
+      "end_month": 8,
+      "end_year": 2023,
+      "amount": 9900.0,
+      "memo": "QuickBooks with Cloud Hosting _ Single User\nFrom June 2023 -  Aug 2023\n(Rs. 3,300*3 months)"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Trumps Solutions (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 6,
+      "start_year": 2023,
+      "end_day": 31,
+      "end_month": 8,
+      "end_year": 2023,
+      "amount": 33000.0,
+      "memo": "QuickBooks with Cloud Hosting - 2 users\nRs. 5,500 per user per month\nJune 2023 - Aug 2023"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Kalrupco Management Services (Private) Limited (deleted)",
+      "start_day": 1,
+      "start_month": 6,
+      "start_year": 2023,
+      "end_day": 31,
+      "end_month": 5,
+      "end_year": 2024,
+      "amount": 39600.0,
+      "memo": "QuickBooks with Cloud Hosting - Single User\nOnbehalf of Bakes By Bella Cafe\nFrom June 2023 - May 2024\n(Rs.3,300*12 Months)"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Reitzel Walker (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 7,
+      "start_year": 2023,
+      "end_day": 30,
+      "end_month": 9,
+      "end_year": 2023,
+      "amount": 72000.0,
+      "memo": "QuickBooks with Cloud Hosting\nFrom July 2023 - Sep 2023\n(Rs. 6,000* 4 Users* 3 months)"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Vista Multi Trading Company (Pvt) Ltd",
+      "start_day": 16,
+      "start_month": 6,
+      "start_year": 2023,
+      "end_day": 15,
+      "end_month": 6,
+      "end_year": 2024,
+      "amount": 120000.0,
+      "memo": "QuickBooks with Cloud Hosting - 2 additional users - Factory Outlet and Head Office (Vista5 and Vista6)\n16 June 2023 - 15 June 2024\nRs. 5,000 per user per month * 2 users * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "ASESKA Corporate Consultants (Pvt) Ltd:Amazing Tribes (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 7,
+      "start_year": 2023,
+      "end_day": 30,
+      "end_month": 6,
+      "end_year": 2024,
+      "amount": 72000.0,
+      "memo": "QuickBooks with Cloud Hosting\nJuly 2023 - June 2024\nRs. 6,000 per user per month * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "ASESKA Corporate Consultants (Pvt) Ltd:ICON Business School",
+      "start_day": 1,
+      "start_month": 7,
+      "start_year": 2023,
+      "end_day": 30,
+      "end_month": 6,
+      "end_year": 2024,
+      "amount": 60000.0,
+      "memo": "QuickBooks with Cloud Hosting \nFrom July 2023 - June 2024\n(Rs. 5,000*12)"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "ASESKA Corporate Consultants (Pvt) Ltd:Villa Educational Services Lanka (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 7,
+      "start_year": 2023,
+      "end_day": 30,
+      "end_month": 6,
+      "end_year": 2024,
+      "amount": 66000.0,
+      "memo": "QuickBooks with Cloud Hosting - July 2023 to June 2024\nRs. 5,500 per user *12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Medilink Lanka (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 7,
+      "start_year": 2023,
+      "end_day": 30,
+      "end_month": 9,
+      "end_year": 2023,
+      "amount": 9900.0,
+      "memo": "QuickBooks with Cloud Hosting - Single User\n(Rs.3,300per User* 3 months)\nJul 2023 - Sep 2023"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Shadow Environmental Services (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 7,
+      "start_year": 2023,
+      "end_day": 30,
+      "end_month": 6,
+      "end_year": 2024,
+      "amount": 72000.0,
+      "memo": "QuickBooks with Cloud Hosting \nJuly 2023 - June 2024\nRs.6,000 User * 12 Months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Carino (Private) Limited",
+      "start_day": 1,
+      "start_month": 7,
+      "start_year": 2023,
+      "end_day": 30,
+      "end_month": 6,
+      "end_year": 2024,
+      "amount": 56400.0,
+      "memo": "QuickBooks with Cloud Hosting\nJuly 2023 - June 2024\n(Rs. 4,700* 12 Months)"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "ASESKA Corporate Consultants (Pvt) Ltd:Bristol Institute of Business Management (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 8,
+      "start_year": 2023,
+      "end_day": 31,
+      "end_month": 7,
+      "end_year": 2024,
+      "amount": 66000.0,
+      "memo": "QuickBooks with Cloud Hosting - (Aug 2023- July 2024)\nRs. 5500*12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Asia Securities (Pvt) Ltd:Mandala Ventures (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 6,
+      "start_year": 2023,
+      "end_day": 31,
+      "end_month": 5,
+      "end_year": 2024,
+      "amount": 4000.0,
+      "memo": "Additional Database Hosting Fee\nJune 2023 - May 2024"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "ASESKA Corporate Consultants (Pvt) Ltd:Lala Restaurants & Hotels (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 8,
+      "start_year": 2023,
+      "end_day": 31,
+      "end_month": 7,
+      "end_year": 2024,
+      "amount": 72000.0,
+      "memo": "QuickBooks with Cloud Hosting\nRs. 6,000 per user per month * 12 months\nAug 2023 - July 2024"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Dilchand (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 8,
+      "start_year": 2023,
+      "end_day": 31,
+      "end_month": 7,
+      "end_year": 2024,
+      "amount": 72000.0,
+      "memo": "QuickBooks with Cloud Hosting\nRs. 6,000 per user per month * 12 months\nAug 2023 - July 2024"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Acrus Travels & Tours (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 9,
+      "start_year": 2023,
+      "end_day": 31,
+      "end_month": 8,
+      "end_year": 2024,
+      "amount": 216000.0,
+      "memo": "QuickBooks with Cloud Hosting\nRs. 6,000 per user per month * 3 users * 12 months\nSept 2023 - Aug 2024"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Chesmi Consolidated (Pvt) Ltd.:Chesmi Trading Company (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 9,
+      "start_year": 2023,
+      "end_day": 31,
+      "end_month": 8,
+      "end_year": 2024,
+      "amount": 264000.0,
+      "memo": "QuickBooks with Cloud Hosting\nRs. 5,500 per user per month * 12 months* 4 Users\nSep 2023 - Aug 2024"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Chesmi Consolidated (Pvt) Ltd.:Bronze Art (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 9,
+      "start_year": 2023,
+      "end_day": 31,
+      "end_month": 8,
+      "end_year": 2024,
+      "amount": 198000.0,
+      "memo": "QuickBooks with Cloud Hosting\nRs. 5,500 per user per month * 12 months* 3 Users\nSep 2023 - Aug 2024"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "ESOL College (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 9,
+      "start_year": 2023,
+      "end_day": 31,
+      "end_month": 8,
+      "end_year": 2024,
+      "amount": 132000.0,
+      "memo": "QuickBooks with Cloud Hosting \nFrom Sep 2023 to Aug 2024\nRs. 5,500* 2 Users* 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Perera Tyre Service (Pvt) Ltd (deleted)",
+      "start_day": 1,
+      "start_month": 9,
+      "start_year": 2023,
+      "end_day": 31,
+      "end_month": 8,
+      "end_year": 2024,
+      "amount": 144000.0,
+      "memo": "QuickBooks with Cloud Hosting\nRs. 6,000 per user per month * 12 months * 2 users\nSept 2023 - Aug 2024"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Swedlanka  Business (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 9,
+      "start_year": 2023,
+      "end_day": 31,
+      "end_month": 8,
+      "end_year": 2024,
+      "amount": 72000.0,
+      "memo": "QuickBooks with Cloud Hosting - 1 user\nRs. 6,000 per user per month * 1 user * 12 months\nSept 2023 - Aug 2024"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "ASESKA Corporate Consultants (Pvt) Ltd:Nayomi's",
+      "start_day": 1,
+      "start_month": 9,
+      "start_year": 2023,
+      "end_day": 31,
+      "end_month": 8,
+      "end_year": 2024,
+      "amount": 132000.0,
+      "memo": "QuickBooks with Cloud Hosting\nSeptember 2023 - August 2024\nRs. 5,500 per user per month * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Asia Securities (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 9,
+      "start_year": 2023,
+      "end_day": 31,
+      "end_month": 8,
+      "end_year": 2024,
+      "amount": 5000.0,
+      "memo": "Additional Database Hosting Fee\nSept 2023 - Aug 2024"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Lead the Way Girls International (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 9,
+      "start_year": 2023,
+      "end_day": 30,
+      "end_month": 11,
+      "end_year": 2023,
+      "amount": 9900.0,
+      "memo": "QuickBooks with Cloud Hosting _ Single User\nFrom Sep 2023 -  Nov 2023\n(Rs. 3,300*3 months)"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Medilink Lanka (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 10,
+      "start_year": 2023,
+      "end_day": 31,
+      "end_month": 12,
+      "end_year": 2023,
+      "amount": 9900.0,
+      "memo": "QuickBooks with Cloud Hosting - Single User\n(Rs.3,300per User* 3 months)\nOct 2023 - Dec 2023"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Reitzel Walker (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 10,
+      "start_year": 2023,
+      "end_day": 31,
+      "end_month": 12,
+      "end_year": 2023,
+      "amount": 72000.0,
+      "memo": "QuickBooks with Cloud Hosting\nFrom Oct 2023 - Dec 2023\n(Rs. 6,000* 4 Users* 3 months)"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Lalan Eco-latex Pvt Ltd",
+      "start_day": 19,
+      "start_month": 9,
+      "start_year": 2023,
+      "end_day": 18,
+      "end_month": 11,
+      "end_year": 2023,
+      "amount": 24000.0,
+      "memo": "QuickBooks with Cloud Hosting - 2 Additional Users\n19 Sept 2023 - 18 Nov 2023\nRs. 6,000 per user per month *  2 Users * 2 Months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Trumps Solutions (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 9,
+      "start_year": 2023,
+      "end_day": 30,
+      "end_month": 11,
+      "end_year": 2023,
+      "amount": 33000.0,
+      "memo": "QuickBooks with Cloud Hosting - 2 users\nRs. 5,500 per user per month\nSept 2023 - Nov 2023"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "KayJay Agencies (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2023,
+      "end_day": 31,
+      "end_month": 3,
+      "end_year": 2024,
+      "amount": 360000.0,
+      "memo": "QuickBooks with Cloud HostingRs. 6,000 per user per month * 6 monthsOct 2023 - Mar 2024KJA 01 - KJA 10"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Wardena Group:Wardena Venture Holdings (Pvt) Ltd",
+      "start_day": 24,
+      "start_month": 10,
+      "start_year": 2023,
+      "end_day": 23,
+      "end_month": 10,
+      "end_year": 2024,
+      "amount": 78000.0,
+      "memo": "QuickBooks with Cloud Hosting - Single User\nFrom 24 Oct 2023 to 23 Oct 2024\nRs. 6,500 per user per month * 1 user * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Jeewaayu (Private) Limited",
+      "start_day": 1,
+      "start_month": 2,
+      "start_year": 2023,
+      "end_day": 30,
+      "end_month": 4,
+      "end_year": 2023,
+      "amount": 15000.0,
+      "memo": "QuickBooks with Cloud Hosting - 1 user\nFeb 2023 - Apr 2023\nRs. 5000* 3 Months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Jeewaayu (Private) Limited",
+      "start_day": 1,
+      "start_month": 5,
+      "start_year": 2023,
+      "end_day": 31,
+      "end_month": 7,
+      "end_year": 2023,
+      "amount": 15000.0,
+      "memo": "QuickBooks with Cloud Hosting\nMay 2023 - July 2023\nRs. 5000* 3 Months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Jeewaayu (Private) Limited",
+      "start_day": 1,
+      "start_month": 8,
+      "start_year": 2023,
+      "end_day": 31,
+      "end_month": 10,
+      "end_year": 2023,
+      "amount": 15000.0,
+      "memo": "QuickBooks with Cloud Hosting - 1 user\nAug 2023 - Oct 2023\nRs. 5000* 3 Months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Andromeda HK Holdings (Pvt) Ltd (deleted)",
+      "start_day": 1,
+      "start_month": 11,
+      "start_year": 2023,
+      "end_day": 31,
+      "end_month": 5,
+      "end_year": 2024,
+      "amount": 117000.0,
+      "memo": "QuickBooks Enterprise Solution 23.0 Developer Trial Licenses Subscription with Cloud Hosting \nNov 2023 - May 2024\nRs. 6,500 per user per month * 3 users * 6 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Street Burger (Pvt) Ltd",
+      "start_day": 29,
+      "start_month": 11,
+      "start_year": 2023,
+      "end_day": 28,
+      "end_month": 11,
+      "end_year": 2024,
+      "amount": 72000.0,
+      "memo": "QuickBooks with Cloud Hosting - 1 user\nRs. 6,000 per user per month * 12 months \nFrom 29 November 2023 to 28 November 2024"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Wardena Group:Megachem Engineering (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2023,
+      "end_day": 30,
+      "end_month": 4,
+      "end_year": 2024,
+      "amount": 72000.0,
+      "memo": "QuickBooks Premier with Cloud Hosting - Two Users(HSR 1 & HSR 3)Rs. 6,000 per User * 6 months * 2 UsersNov 2023 to April 2024"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Jeewaayu (Private) Limited",
+      "start_day": 1,
+      "start_month": 11,
+      "start_year": 2023,
+      "end_day": 31,
+      "end_month": 1,
+      "end_year": 2024,
+      "amount": 15000.0,
+      "memo": "QuickBooks with Cloud Hosting - Single User\n(Nov 2023 - Jan 2024)"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "LYNEAR Wealth Management (Pvt) Limited",
+      "start_day": 1,
+      "start_month": 11,
+      "start_year": 2023,
+      "end_day": 31,
+      "end_month": 10,
+      "end_year": 2024,
+      "amount": 72000.0,
+      "memo": "QuickBooks with Cloud Hosting\nRs. 6,000 per user per month * 12 months\nNov 2023 - Oct 2024"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "LYNEAR Wealth Management (Pvt) Limited",
+      "start_day": 1,
+      "start_month": 11,
+      "start_year": 2023,
+      "end_day": 31,
+      "end_month": 10,
+      "end_year": 2024,
+      "amount": 4000.0,
+      "memo": "QuickBooks with Cloud Hosting - Additional Database Hosting\nRs. 4,000 per year per database\nNov 2023 - Oct 2024"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Medilink Lanka (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 3,
+      "end_year": 2024,
+      "amount": 9900.0,
+      "memo": "QuickBooks with Cloud Hosting - Single User\n(Rs.3,300per User* 3 months)\nJan 2024 - Mar 2024"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Lead the Way Girls International (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 12,
+      "start_year": 2023,
+      "end_day": 29,
+      "end_month": 2,
+      "end_year": 2024,
+      "amount": 9900.0,
+      "memo": "QuickBooks with Cloud Hosting _ Single User\nFrom Dec 2023 -  Feb 2024\n(Rs. 3,300*3 months)"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Nine Nine Hardware City",
+      "start_day": 18,
+      "start_month": 12,
+      "start_year": 2023,
+      "end_day": 17,
+      "end_month": 12,
+      "end_year": 2024,
+      "amount": 72000.0,
+      "memo": "QuickBooks with Cloud Hosting -\nFrom  18 Dec 2023 to 17 Dec 2024\nRs. 6,000 per user per month x 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Trumps Solutions (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 12,
+      "start_year": 2023,
+      "end_day": 29,
+      "end_month": 2,
+      "end_year": 2024,
+      "amount": 33000.0,
+      "memo": "QuickBooks with Cloud Hosting - 2 users\nRs. 5,500 per user per month\nDec 2023 - Feb 2024"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "TBS International (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 12,
+      "end_year": 2024,
+      "amount": 156000.0,
+      "memo": "QuickBooks with Cloud Hosting - 2024\nJan 2024 - Dec 2024\n(Rs.6,500 per User*2 Users*12 Months)"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Reitzel Walker (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 3,
+      "end_year": 2024,
+      "amount": 72000.0,
+      "memo": "QuickBooks with Cloud Hosting\nFrom Jan 2024 - Mar 2024\n(Rs. 6,000* 4 Users* 3 months)"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "The Recovery Room",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 12,
+      "end_year": 2024,
+      "amount": 72000.0,
+      "memo": "QuickBooks with Cloud Hosting - 1 user\nRs. 6,000 per user * 12 months\nFrom Jan 2024 - Dec 2024"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Estilo Apparel (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 12,
+      "end_year": 2024,
+      "amount": 156000.0,
+      "memo": "QuickBooks with Cloud Hosting (recurring)\nJan 2024 - Dec 2024\nRs. 6,500 per user per month * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Wardena Group:Megachem Engineering (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2024,
+      "end_day": 30,
+      "end_month": 6,
+      "end_year": 2024,
+      "amount": 36000.0,
+      "memo": "QuickBooks with Cloud Hosting - Additional User (HSR4)Jan 2024 - June 2024Rs. 6,000 per user per month"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Jaffna Horticulture (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2024,
+      "end_day": 29,
+      "end_month": 2,
+      "end_year": 2024,
+      "amount": 12000.0,
+      "memo": "QuickBooks with Cloud Hosting\nRs 6,000 per user per month\nJan 2024 - Feb 2024"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Kay Jay Electronics (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2024,
+      "end_day": 30,
+      "end_month": 6,
+      "end_year": 2024,
+      "amount": 66000.0,
+      "memo": "QuickBooks with Dedicated Cloud Hosting - Enterprise Solution Developer Evaluation Licenses\nRs. 5,500 per user (discounted from 6,000) * 2 users * 6 months\nJan 2024 - June 2024"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Dress works Colombo (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 2,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 1,
+      "end_year": 2025,
+      "amount": 156000.0,
+      "memo": "QuickBooks with Cloud Hosting (recurring)\nFeb 2024 - Jan 2025\nRs. 6,500 per user per month * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Vista Multi Trading Company (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 12,
+      "end_year": 2024,
+      "amount": 60000.0,
+      "memo": "QuickBooks with Cloud Hosting (recurring) - Maradana (Vista1)\nJan 2024 - Dec 2024\nRs. 5,000 per user per month * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Wardena Group:Wichy International PTE Ltd",
+      "start_day": 1,
+      "start_month": 2,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 1,
+      "end_year": 2025,
+      "amount": 156000.0,
+      "memo": "QuickBooks with Cloud Hosting - Two Users\nFeb 2024 - Jan 2025\nRs. 6,500 * 2 Users * 12 Months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "SUN QUEEN APPAREL (PRIVATE) LIMITED",
+      "start_day": 1,
+      "start_month": 3,
+      "start_year": 2024,
+      "end_day": 28,
+      "end_month": 2,
+      "end_year": 2025,
+      "amount": 216000.0,
+      "memo": "QuickBooks with Cloud Hosting - 3 users from March 2024 to Feb 2025\nRs. 6,000 per user per month * 3 users * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Sun Queen Garments (Private) Limited",
+      "start_day": 1,
+      "start_month": 3,
+      "start_year": 2024,
+      "end_day": 28,
+      "end_month": 2,
+      "end_year": 2025,
+      "amount": 156000.0,
+      "memo": "QuickBooks with Cloud Hosting - Old Data Base\nRs. 6,500 per User * 12 months * 2 User\n(Mar 2024- Feb 2025)"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Bluestone Capital (Pvt) Ltd:Bluestone 4 (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 12,
+      "end_year": 2024,
+      "amount": 42000.0,
+      "memo": "Bluestone 4 (Pvt) Ltd\nQuickBooks with Cloud Hosting - Single User\nFrom Jan 2024 to Dec 2024\nRs. 3,500 per user * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Vista Multi Trading Company (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 2,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 1,
+      "end_year": 2025,
+      "amount": 60000.0,
+      "memo": "QuickBooks with Cloud Hosting (recurring) - Nugegoda (Vista2) \nFeb 2024 - Jan 2025\nRs. 5,000 per user per month * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Vaughan Chemicals",
+      "start_day": 14,
+      "start_month": 2,
+      "start_year": 2024,
+      "end_day": 13,
+      "end_month": 3,
+      "end_year": 2024,
+      "amount": 6500.0,
+      "memo": "QuickBooks with Cloud Hosting - 1 Temporary User\n14 Feb 2024 - 13 Mar 2024"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Huskies Global",
+      "start_day": 1,
+      "start_month": 3,
+      "start_year": 2024,
+      "end_day": 28,
+      "end_month": 2,
+      "end_year": 2025,
+      "amount": 78000.0,
+      "memo": "QuickBooks with Cloud Hosting - 1 concurrent user (recurring)\nMar 2024 - Feb 2025\nRs.  6,500 per user per month * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Trumps Solutions (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 3,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 5,
+      "end_year": 2024,
+      "amount": 33000.0,
+      "memo": "QuickBooks with Cloud Hosting - 2 users\nRs. 5,500 per user per month\nMar 2024 - May 2024"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Vista Multi Trading Company (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 3,
+      "start_year": 2024,
+      "end_day": 28,
+      "end_month": 2,
+      "end_year": 2025,
+      "amount": 60000.0,
+      "memo": "QuickBooks with Cloud Hosting - Matara (Vista3)\nMar 2024 - Feb 2025\nRs. 5000 per user per month * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Indochina Productions",
+      "start_day": 1,
+      "start_month": 3,
+      "start_year": 2024,
+      "end_day": 28,
+      "end_month": 2,
+      "end_year": 2025,
+      "amount": 312000.0,
+      "memo": "QuickBooks with Cloud Hosting - 4 Users\nFrom Mar 2024 - Feb 2025\nRs. 6,500 per user per month * 12 months * 4 users"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Klestro Manufacturing Company",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 3,
+      "end_year": 2025,
+      "amount": 132000.0,
+      "memo": "QuickBooks Enterprise (developer trial licenses) with Cloud Hosting - 2 users (recurring)Rs. 6,000 per user per month * 11 monthsMay 2024 -  Mar 2025Discount amount: Rs. 11,000"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Lead the Way Girls International (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 3,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 5,
+      "end_year": 2024,
+      "amount": 10800.0,
+      "memo": "QuickBooks with Cloud Hosting _ Single User\nFrom Mar 2024 -  May 2024\n(Rs. 3,600*3 months)"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Koragaha Lodge",
+      "start_day": 1,
+      "start_month": 3,
+      "start_year": 2024,
+      "end_day": 28,
+      "end_month": 2,
+      "end_year": 2025,
+      "amount": 78000.0,
+      "memo": "QuickBooks with Cloud Hosting - 1 Additional User\nRs. 6,500 per user per month discounted to Rs. 6,000 per user per month * 12 months\n\nMar 2024 - Feb 2025"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "SUN QUEEN APPAREL (PRIVATE) LIMITED",
+      "start_day": 1,
+      "start_month": 4,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 3,
+      "end_year": 2025,
+      "amount": 234000.0,
+      "memo": "QuickBooks with Cloud Hosting - New Database\nApril 2024 to Mar 2025\nRs. 6,500 per user per month * 3 users * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Sun Queen Garments (Private) Limited",
+      "start_day": 1,
+      "start_month": 4,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 3,
+      "end_year": 2025,
+      "amount": 156000.0,
+      "memo": "QuickBooks with Cloud Hosting - New Database \nRs. 6,500 per User * 12 months * 2 User\n(Apr 2024- Mar 2025)"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Bluestone Capital (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 4,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 3,
+      "end_year": 2025,
+      "amount": 72000.0,
+      "memo": "Bluestone Capital (Pvt) Ltd\nQuickBooks with Cloud Hosting - Single User\nFrom April 2024 to March 2025\nRs. 6,000 per user * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Bluestone Capital (Pvt) Ltd:Bluestone 1 (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 4,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 3,
+      "end_year": 2025,
+      "amount": 42000.0,
+      "memo": "Bluestone 1 (Pvt) Ltd\nQuickBooks with Cloud Hosting - Single User\nfrom April 2024 to March 2025\nRs. 3,500 per user * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Bluestone Capital (Pvt) Ltd:Bluestone 2 (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 4,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 3,
+      "end_year": 2025,
+      "amount": 42000.0,
+      "memo": "Bluestone 2 (Pvt) Ltd\nQuickBooks with Cloud Hosting - Single User\nFrom April 2024 to March 2025\nRs. 3,500 per user * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Bluestone Capital (Pvt) Ltd:Bluestone 3 (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 4,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 3,
+      "end_year": 2025,
+      "amount": 42000.0,
+      "memo": "Bluestone 3 (Pvt) Ltd\nQuickBooks with Cloud Hosting - Single User\nFrom April 2024 to March 2025\nRs. 3,500 per user * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Federation of Information Technology Industry Sri Lanka",
+      "start_day": 1,
+      "start_month": 4,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 3,
+      "end_year": 2025,
+      "amount": 72000.0,
+      "memo": "QuickBooks with Cloud Hosting - 1 server user\nApr 2024 - Mar 2025\nRs. 6,000 per month * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Medilink Lanka (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 4,
+      "start_year": 2024,
+      "end_day": 30,
+      "end_month": 6,
+      "end_year": 2024,
+      "amount": 10800.0,
+      "memo": "QuickBooks with Cloud Hosting - Single User\n(Rs.3,600 per User* 3 months)\nApr 2024 - June 2024"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Vista Multi Trading Company (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 4,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 3,
+      "end_year": 2025,
+      "amount": 60000.0,
+      "memo": "QuickBooks with Cloud Hosting (recurring) - Galle (Vista4)\nRs. 5,000 per user per month * 12 months\n1 Apr 2024 - 31 Mar 2025"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Reitzel Walker (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 4,
+      "start_year": 2024,
+      "end_day": 30,
+      "end_month": 6,
+      "end_year": 2024,
+      "amount": 78000.0,
+      "memo": "QuickBooks with Cloud Hosting\nFrom Apr 2024 - June 2024\n(Rs. 6,500* 4 Users* 3 months)"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Vaughan Chemicals",
+      "start_day": 1,
+      "start_month": 4,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 3,
+      "end_year": 2025,
+      "amount": 156000.0,
+      "memo": "QuickBooks with Cloud Hosting\nApril 2024 - Mar 2025\nRs. 6,500 per user per month * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Lalan Eco-latex Pvt Ltd",
+      "start_day": 1,
+      "start_month": 5,
+      "start_year": 2024,
+      "end_day": 30,
+      "end_month": 4,
+      "end_year": 2025,
+      "amount": 312000.0,
+      "memo": "QuickBooks with Cloud Hosting\nRs. 6,500 per user per month * 12 months * 4 users\nMay 2024 - April 2025"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Sri Delivery",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 8,
+      "end_year": 2024,
+      "amount": 28000.0,
+      "memo": "QuickBooks with Cloud HostingRs. 7,000 per user per month * 1 users * 4 monthsMay 2024 - Aug 2024"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Lalan Eco-latex Pvt Ltd",
+      "start_day": 1,
+      "start_month": 4,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 3,
+      "end_year": 2025,
+      "amount": 5000.0,
+      "memo": "QuickBooks with Cloud Hosting - Additional Database Hosting\nRs. 5,000 per year per additional database\nApr 2024 - Mar 2025"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Wardena Group:Megachem Engineering (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 4,
+      "start_year": 2024,
+      "end_day": 30,
+      "end_month": 9,
+      "end_year": 2024,
+      "amount": 78000.0,
+      "memo": "QuickBooks with Cloud Hosting - 2 Additional Users (Megachem 1& 2)Apr 2024 - Sept 2024Rs. 6,500 per user per month * 2 users * 6 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Halford Group Lanka (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 5,
+      "start_year": 2024,
+      "end_day": 30,
+      "end_month": 4,
+      "end_year": 2025,
+      "amount": 78000.0,
+      "memo": "QuickBooks with Cloud Hosting - 1 User (Recurring)\nRs. 6,500 per user per month (discounted to Rs. 6,000) * 12 months\nMay 2024 - Apr 2025"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Halford Group Lanka (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 5,
+      "start_year": 2024,
+      "end_day": 30,
+      "end_month": 4,
+      "end_year": 2025,
+      "amount": 4000.0,
+      "memo": "QuickBooks with Cloud Hosting - Additional Database Hosting UAE Branch (Recurring)\nRs. 4,000 per database per year * 1 databases \nMay 2024 - Apr 2025"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Vaughan Chemicals",
+      "start_day": 29,
+      "start_month": 4,
+      "start_year": 2024,
+      "end_day": 28,
+      "end_month": 5,
+      "end_year": 2024,
+      "amount": 6500.0,
+      "memo": "QuickBooks with Cloud Hosting - 1 Temporary User\n29 Apr 2024 - 28 May 2024"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Kay Jay Electronics (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 5,
+      "start_year": 2024,
+      "end_day": 30,
+      "end_month": 6,
+      "end_year": 2024,
+      "amount": 11000.0,
+      "memo": "QuickBooks with Dedicated Cloud Hosting - Enterprise Solution Developer Evaluation Licenses\nRs. 5,500 per user (discounted from 6,000) * 1 user * 2 months\nMay 2024 - June 2024"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Street Burger (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 5,
+      "start_year": 2024,
+      "end_day": 30,
+      "end_month": 4,
+      "end_year": 2025,
+      "amount": 156000.0,
+      "memo": "QuickBooks with Cloud Hosting - SB1 & SB2\nRs. 6,500 per user per month * 12 months * 2 users\nMay 2024 - April 2025"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Karunaya Lanka (GTE) Ltd",
+      "start_day": 1,
+      "start_month": 6,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 5,
+      "end_year": 2025,
+      "amount": 72000.0,
+      "memo": "QuickBooks with Cloud Hosting - Single User\n(From June 2024 - May 2025)\n(Rs. 6,000 per User * 12 months)"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "ASESKA Corporate Consultants (Pvt) Ltd:The Creative Congress (Pvt) Ltd.",
+      "start_day": 1,
+      "start_month": 5,
+      "start_year": 2024,
+      "end_day": 30,
+      "end_month": 4,
+      "end_year": 2025,
+      "amount": 78000.0,
+      "memo": "QuickBooks with Cloud Hosting - 1 User May 2024 - Apr 2025Rs. 6,500 per user per month * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Wardena Group:Megachem Engineering (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 10,
+      "end_year": 2024,
+      "amount": 78000.0,
+      "memo": "QuickBooks Premier with Cloud Hosting - Two Users(HSR 1 & HSR 3)Rs. 6,500 per User * 6 months * 2 UsersMay 2024 to Oct 2024"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Wardena Group:Megachem Engineering (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 7,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 12,
+      "end_year": 2024,
+      "amount": 39000.0,
+      "memo": "QuickBooks with Cloud Hosting - Additional User (HSR 4)July 2024 - December 2024Rs. 6,500 per user per month* 6 Months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "ASESKA Corporate Consultants (Pvt) Ltd:Ceygreen Expedition (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 5,
+      "end_year": 2025,
+      "amount": 84000.0,
+      "memo": "QuickBooks with Cloud Hosting - 1 UserJune 2024 - May 2025Rs. 7,000 per user per month * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Platinum Immigration Solutions (Pvt) Ltd.",
+      "start_day": 1,
+      "start_month": 3,
+      "start_year": 2024,
+      "end_day": 28,
+      "end_month": 2,
+      "end_year": 2025,
+      "amount": 156000.0,
+      "memo": "QuickBooks with Cloud Hosting - 2 Users\nRs. 6,500 per user per month * 12 months \nMar 2024 - Feb 2025"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Wildlife and Nature Protection Society",
+      "start_day": 1,
+      "start_month": 6,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 5,
+      "end_year": 2025,
+      "amount": 60000.0,
+      "memo": "QuickBooks with Cloud Hosting - 1 Users (annually recurring)\nRetail Price : Rs. 6,500\nDiscounted Price : Rs. 5,000\nRs. 5,000 per user per month * 1 users * 12 months\n(June 2024 - May 2025)"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Lead the Way Girls International (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 6,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 8,
+      "end_year": 2024,
+      "amount": 10800.0,
+      "memo": "QuickBooks with Cloud Hosting _ Single UserFrom June 2024 -  Aug 2024(Rs. 3,600*3 months)"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Vista Multi Trading Company (Pvt) Ltd",
+      "start_day": 16,
+      "start_month": 6,
+      "start_year": 2024,
+      "end_day": 15,
+      "end_month": 6,
+      "end_year": 2025,
+      "amount": 120000.0,
+      "memo": "QuickBooks with Cloud Hosting - 2 additional users - Factory Outlet and Head Office (Vista5 and Vista6)16 June 2024 - 15 June 2025Rs. 5,000 per user per month * 2 users * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Reitzel Walker (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 7,
+      "start_year": 2024,
+      "end_day": 30,
+      "end_month": 9,
+      "end_year": 2024,
+      "amount": 78000.0,
+      "memo": "QuickBooks with Cloud HostingFrom July 2024 - Sep 2024(Rs. 6,500* 4 Users* 3 months)"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Medilink Lanka (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 7,
+      "start_year": 2024,
+      "end_day": 30,
+      "end_month": 9,
+      "end_year": 2024,
+      "amount": 10800.0,
+      "memo": "QuickBooks with Cloud Hosting - Single User(Rs.3,600 per User* 3 months)July 2024 - Sep 2024"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "ASESKA Corporate Consultants (Pvt) Ltd:Amazing Tribes (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2024,
+      "end_day": 30,
+      "end_month": 6,
+      "end_year": 2025,
+      "amount": 78000.0,
+      "memo": "QuickBooks with Cloud HostingJuly 2024 - June 2025Rs. 6,500 per user per month * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Carino (Private) Limited",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2024,
+      "end_day": 30,
+      "end_month": 6,
+      "end_year": 2025,
+      "amount": 60000.0,
+      "memo": "QuickBooks with Cloud HostingJuly 2024 - June 2025(Rs. 5,000* 12 Months)"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Koragaha Lodge",
+      "start_day": 1,
+      "start_month": 7,
+      "start_year": 2024,
+      "end_day": 30,
+      "end_month": 6,
+      "end_year": 2025,
+      "amount": 78000.0,
+      "memo": "QuickBooks with Cloud Hosting - 1st User (KL1)\nJuly 2024 - June 2025\nRs.6,500 per user * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Shadow Environmental Services (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 7,
+      "start_year": 2024,
+      "end_day": 30,
+      "end_month": 6,
+      "end_year": 2025,
+      "amount": 78000.0,
+      "memo": "QuickBooks with Cloud Hosting July 2024 - June 2025Rs.6,500 User * 12 Months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Kay Jay Electronics (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2024,
+      "end_day": 30,
+      "end_month": 6,
+      "end_year": 2025,
+      "amount": 990000.0,
+      "memo": "QuickBooks with Dedicated Cloud Hosting - Enterprise Solution Developer Evaluation LicensesJuly 2024 - June 2025Rs. 5,500 per user (discounted from 6,000) * 15 users * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Olee Natural Foods (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 7,
+      "start_year": 2024,
+      "end_day": 14,
+      "end_month": 5,
+      "end_year": 2025,
+      "amount": 84000.0,
+      "memo": "QuickBooks Enterprise Developer Trial with Cloud Hosting - Additional User (5th User)1 July 2024 - 14 May 2025Rs. 8,000 per User * 10.5 Months* 1 Users"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "ASESKA Corporate Consultants (Pvt) Ltd:W.CALISTUS B. PERERA & SONS (PVT) LTD",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 7,
+      "end_year": 2025,
+      "amount": 90000.0,
+      "memo": "QuickBooks with Cloud Hosting - 1 UserRs. 7,500 per user per month * 12 monthsAug 2024 - July 2025"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Reitzel Walker (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 7,
+      "start_year": 2024,
+      "end_day": 30,
+      "end_month": 9,
+      "end_year": 2024,
+      "amount": 19500.0,
+      "memo": "QuickBooks with Cloud Hosting - Additional User (Created on 5th July 2024)From July 2024 - Sep 2024(Rs. 6,500* 1 User* 3 months)"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Kangara Holdings (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2024,
+      "end_day": 30,
+      "end_month": 6,
+      "end_year": 2025,
+      "amount": 5000.0,
+      "memo": "QuickBooks with Cloud Hosting - 1 Additional DatabaseRs. 5,000 per year per databaseJuly 2024 - June 2025"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Asia Securities (Pvt) Ltd:Mandala Ventures (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 5,
+      "end_year": 2025,
+      "amount": 5000.0,
+      "memo": "Additional Database Hosting FeeJune 2024 - May 2025"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Halford Group Lanka (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 7,
+      "end_year": 2025,
+      "amount": 72000.0,
+      "memo": "QuickBooks with Cloud Hosting - 1 Additional User (Recurring)Rs. 6,500 per user per month (discounted to Rs. 6,000) * 12 monthsAug 2024 - July 2025"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Dilchand (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 7,
+      "end_year": 2025,
+      "amount": 78000.0,
+      "memo": "QuickBooks with Cloud HostingRs. 6,500 per user per month * 12 monthsAug 2024 - July 2025"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "ASESKA Corporate Consultants (Pvt) Ltd:Hangla (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 8,
+      "end_year": 2025,
+      "amount": 90000.0,
+      "memo": "QuickBooks with Cloud Hosting - 1 UserSep 2024 - Aug 2025Rs. 7,500 per user per month * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "ASESKA Corporate Consultants (Pvt) Ltd:Lala Restaurants & Hotels (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 7,
+      "end_year": 2025,
+      "amount": 78000.0,
+      "memo": "QuickBooks with Cloud HostingRs. 6,500 per user per month * 12 monthsAug 2024 - July 2025"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "ASESKA Corporate Consultants (Pvt) Ltd:Nayomi's",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 8,
+      "end_year": 2025,
+      "amount": 144000.0,
+      "memo": "QuickBooks with Cloud HostingSeptember 2024 - August 2025Rs. 6,000 per user per month * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Fairway Urban Homes Management Corporation Plan 18094",
+      "start_day": 1,
+      "start_month": 8,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 7,
+      "end_year": 2025,
+      "amount": 72000.0,
+      "memo": "QuickBooks with Cloud Hosting - 1 Concurrent User(Aug 2024 - July 2025)Mid-year Discount 1/3 AppliedStandard Fee     : Rs. 6,000*12 = Rs. 72,000Discounted Fee : Rs. 4,000*12 = Rs.48,000"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Acrus Travels & Tours (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 8,
+      "end_year": 2025,
+      "amount": 234000.0,
+      "memo": "QuickBooks with Cloud HostingRs. 6,500 per user per month * 3 users * 12 monthsSept 2024 - Aug 2025"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Lead the Way Girls International (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 9,
+      "start_year": 2024,
+      "end_day": 30,
+      "end_month": 11,
+      "end_year": 2024,
+      "amount": 10800.0,
+      "memo": "QuickBooks with Cloud Hosting _ Single UserFrom Sep 2024 -  Nov 2024(Rs. 3,600*3 months)"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Wardena Group:Megachem Engineering (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 10,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 3,
+      "end_year": 2025,
+      "amount": 78000.0,
+      "memo": "QuickBooks with Cloud Hosting - 2 Additional Users(Megachem User 1& 2)Oct 2024 - Mar 2025Rs. 6,500 per user per month * 2 users * 6 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Sri Lanka Institute of Biotechnology (SLIBTEC)",
+      "start_day": 1,
+      "start_month": 9,
+      "start_year": 2024,
+      "end_day": 28,
+      "end_month": 2,
+      "end_year": 2025,
+      "amount": 300000.0,
+      "memo": "QuickBooks with Cloud Hosting (Dedicated Hosting) - Developer Trial Licenses\nRs. 10,000 per user per month * 6 months * 5 users\n(Sep 2024 - Feb 2025)"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Kay Jay Electronics (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 8,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 7,
+      "end_year": 2025,
+      "amount": 66000.0,
+      "memo": "QuickBooks with Cloud Hosting - User KJE16Aug 2024 - July 2025Rs. 5,500 per user (discounted from 6,000) * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Chesmi Consolidated (Pvt) Ltd.:Chesmi Trading Company (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 8,
+      "end_year": 2025,
+      "amount": 144000.0,
+      "memo": "QuickBooks with Cloud HostingRs. 6,000 per user per month * 12 months* 2 UsersSep 2024 - Aug 2025"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Chesmi Consolidated (Pvt) Ltd.:Bronze Art (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 9,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 8,
+      "end_year": 2025,
+      "amount": 216000.0,
+      "memo": "QuickBooks with Cloud Hosting\nRs. 6,000 per user per month * 12 months* 3 Users\nSep 2024 - Aug 2025"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Chesmi Consolidated (Pvt) Ltd.:Telcey Services (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 8,
+      "end_year": 2025,
+      "amount": 72000.0,
+      "memo": "QuickBooks with Cloud HostingRs. 6,000 per user per month * 12 months* 1 UserSep 2024 - Aug 2025"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Asia Securities (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 8,
+      "end_year": 2025,
+      "amount": 5000.0,
+      "memo": "Additional Database Hosting FeeSept 2024 - Aug 2025"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Chroma Chemie Clothing Solutions (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 8,
+      "end_year": 2025,
+      "amount": 156000.0,
+      "memo": "QuickBooks with Cloud Hosting - 2 UsersSep 2024 - Aug 2025Rs.6,500 per user (discounted to Rs 6,000) * 2 Users * 12 Months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Swedlanka  Business (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 8,
+      "end_year": 2025,
+      "amount": 78000.0,
+      "memo": "QuickBooks with Cloud Hosting - 1 userRs. 6,500 per user per month * 1 user * 12 monthsSept 2024 - Aug 2025"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Molecule (Pvt) Limited",
+      "start_day": 1,
+      "start_month": 9,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 8,
+      "end_year": 2025,
+      "amount": 78000.0,
+      "memo": "QuickBooks with Cloud Hosting (User 1: MLC1)Sep 2024 - Aug 2025Rs. 6,500 per user*12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Kay Jay Electronics (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 9,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 8,
+      "end_year": 2025,
+      "amount": 132000.0,
+      "memo": "QuickBooks with Cloud Hosting - User KJE17 & KJE18Sep 2024 - Aug 2025Rs. 5,500 per user (discounted from 6,000) * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Reitzel Walker (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 10,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 12,
+      "end_year": 2024,
+      "amount": 97500.0,
+      "memo": "QuickBooks with Cloud HostingFrom Oct 2024 - Dec 2024(Rs. 6,500* 5 Users* 3 months)"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "LYNEAR Wealth Management (Pvt) Limited",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2024,
+      "end_day": 30,
+      "end_month": 9,
+      "end_year": 2025,
+      "amount": 5000.0,
+      "memo": "QuickBooks with Cloud Hosting - Additional Database HostingRs 5,000 per additional database per yearOct 2024 - Sept 2025"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Emerging Media (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 11,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 10,
+      "end_year": 2025,
+      "amount": 78000.0,
+      "memo": "QuickBooks with Cloud Hosting - QuickBooks Enterprise Developer Trial(Nov 2024 - Oct 2025)Rs 6,500 per user per month * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Medilink Lanka (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 10,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 12,
+      "end_year": 2024,
+      "amount": 10800.0,
+      "memo": "QuickBooks with Cloud Hosting - Single User(Rs.3,600 per User* 3 months)Oct 2024 - Dec 2024"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Solar Booze Pvt Ltd",
+      "start_day": 1,
+      "start_month": 11,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 10,
+      "end_year": 2025,
+      "amount": 78000.0,
+      "memo": "QuickBooks with Cloud Hosting -First User (SolarB1)\n(Nov 2024 - Oct 2025)\n(Rs.6,500*12 months*1 Users)"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Vista Multi Trading Company (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 10,
+      "start_year": 2024,
+      "end_day": 30,
+      "end_month": 9,
+      "end_year": 2025,
+      "amount": 60000.0,
+      "memo": "QuickBooks with Cloud Hosting - Stores (Vista7)Oct 2024 - Sep 2025Rs. 5,000 per user per month * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Wardena Group:Wardena Venture Holdings (Pvt) Ltd",
+      "start_day": 24,
+      "start_month": 10,
+      "start_year": 2024,
+      "end_day": 23,
+      "end_month": 10,
+      "end_year": 2025,
+      "amount": 78000.0,
+      "memo": "QuickBooks with Cloud Hosting - Single User (WG)From 24 Oct 2024 to 23 Oct 2025Rs. 6,500 per user per month * 1 user * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Indochina Productions",
+      "start_day": 1,
+      "start_month": 10,
+      "start_year": 2024,
+      "end_day": 30,
+      "end_month": 9,
+      "end_year": 2025,
+      "amount": 78000.0,
+      "memo": "QuickBooks with Cloud Hosting - Additional User (ICP5)\nRs. 6,500 per user per month\nOct 2024 - Sept 2025"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Upali Mills (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 11,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 10,
+      "end_year": 2025,
+      "amount": 1080000.0,
+      "memo": "QuickBooks Enterprise Developer Trial Dedicated Cloud HostingRs. 10,000 per user per month * 12 months Discounted Price : Rs.9,500 per User(Nov 2024 - Oct 2025)Server specs:Processor: Intel Core i7 / AMD Ryzen 7RAM: up to 64 GBSpace: up to 1 TB NVMeOS: Windows Server 2019VPN: Cloudflare Zero trust Location: Germany / Finland / USA"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Upali Mills (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2024,
+      "end_day": 30,
+      "end_month": 11,
+      "end_year": 2024,
+      "amount": 20000.0,
+      "memo": "QuickBooks with Cloud Hosting - Additional UserOct 2024 - Nov 2024"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Chesmi Consolidated (Pvt) Ltd.:Aventura Holdings (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 8,
+      "end_year": 2025,
+      "amount": 72000.0,
+      "memo": "QuickBooks with Cloud HostingRs. 6,000 per user per month * 12 months* 1 UsersSep 2024 - Aug 2025"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Molecule (Pvt) Limited",
+      "start_day": 1,
+      "start_month": 11,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 10,
+      "end_year": 2025,
+      "amount": 78000.0,
+      "memo": "QuickBooks with Cloud Hosting _ 2nd User (MLC2)Nov 2024 - Oct 2025Rs. 6,500* 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Wardena Group:Megachem Engineering (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2024,
+      "end_day": 30,
+      "end_month": 4,
+      "end_year": 2025,
+      "amount": 78000.0,
+      "memo": "QuickBooks Premier with Cloud Hosting - Two Users(HSR 1& 3)Rs. 6,500 per User * 6 months * 2 UsersNov 2024 to April 2025"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "LYNEAR Wealth Management (Pvt) Limited",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 10,
+      "end_year": 2025,
+      "amount": 156000.0,
+      "memo": "QuickBooks Premier with Cloud HostingNov 2024 - Oct 2025Rs. 6,500 per user per month * 2 Users*12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "LYNEAR Wealth Management (Pvt) Limited",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 10,
+      "end_year": 2025,
+      "amount": 5000.0,
+      "memo": "QuickBooks with Cloud Hosting - Additional Database HostingRs. 5,000 per year per databaseNov 2024 - Oct 2025"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "KayJay Agencies (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 12,
+      "start_year": 2024,
+      "end_day": 30,
+      "end_month": 11,
+      "end_year": 2025,
+      "amount": 780000.0,
+      "memo": "QuickBooks with Cloud Hosting\nRs. 6,500 per user per month * 12 months\nDec 2024 - Nov 2025\nKJA 01 - KJA 10"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Street Burger (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 12,
+      "start_year": 2024,
+      "end_day": 30,
+      "end_month": 11,
+      "end_year": 2025,
+      "amount": 78000.0,
+      "memo": "QuickBooks with Cloud Hosting - 1 Additional User (SB4)Rs. 6,500 per user per month * 12 months Dec 2024 - Nov 2025"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Lead the Way Girls International (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 12,
+      "start_year": 2024,
+      "end_day": 28,
+      "end_month": 2,
+      "end_year": 2025,
+      "amount": 10800.0,
+      "memo": "QuickBooks with Cloud Hosting _ Single UserFrom Dec 2024 -  Feb 2025(Rs. 3,600*3 months)"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Nine Nine Hardware City",
+      "start_day": 1,
+      "start_month": 12,
+      "start_year": 2024,
+      "end_day": 30,
+      "end_month": 11,
+      "end_year": 2025,
+      "amount": 78000.0,
+      "memo": "QuickBooks with Cloud Hosting -Dec 2024 - Nov 2025Rs. 6,500 per user per month x 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Vesna Lanka (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 12,
+      "end_year": 2025,
+      "amount": 168000.0,
+      "memo": "QuickBooks with Cloud HostingJan 2025 - Dec 2025Rs.7,000* 2 Users* 12 Months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "TBS International (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 12,
+      "end_year": 2025,
+      "amount": 156000.0,
+      "memo": "QuickBooks with Cloud Hosting - 2025 (User1 & 2)Jan 2025 - Dec 2025(Rs.6,500 per User*2 Users*12 Months)"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Street Burger (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 12,
+      "start_year": 2024,
+      "end_day": 30,
+      "end_month": 11,
+      "end_year": 2025,
+      "amount": 78000.0,
+      "memo": "QuickBooks with Cloud Hosting - 3rd User (SB3)Rs. 6,500 per user per month * 12 months Dec 2024 - Nov 2025"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Raigam Solar (Pvt.) Ltd",
+      "start_day": 1,
+      "start_month": 12,
+      "start_year": 2024,
+      "end_day": 30,
+      "end_month": 11,
+      "end_year": 2024,
+      "amount": 360000.0,
+      "memo": "QuickBooks with Cloud Hosting - 5 Users (RS1 - RS5)\nRs. 6,000 per user per month (discounted to 4,000) * 12 months * 5 users\nDec 2024 - Nov 2024"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "RDT Natural (Pvt) Ltd",
+      "start_day": 17,
+      "start_month": 12,
+      "start_year": 2024,
+      "end_day": 16,
+      "end_month": 12,
+      "end_year": 2025,
+      "amount": 360000.0,
+      "memo": "QuickBooks Enterprise Developer Trial with Cloud Hosting - 3 Users (RDT1 - RDT3)Standard Price : 10,000Discounted Price : 9,500Rs. 9,500* 3 Users * 12 Months17 Dec 2024 - 16 Dec 2025"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Reitzel Walker (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 3,
+      "end_year": 2025,
+      "amount": 97500.0,
+      "memo": "QuickBooks with Cloud HostingFrom Jan 2025 - Mar 2025(Rs. 6,500* 5 Users* 3 months)"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "The Recovery Room",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 12,
+      "end_year": 2025,
+      "amount": 72000.0,
+      "memo": "QuickBooks with Cloud Hosting - 1 userRs. 6,000 per user * 12 monthsFrom Jan 2025 - Dec 2025"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Bluestone Capital (Pvt) Ltd:Bluestone 4 (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 12,
+      "end_year": 2025,
+      "amount": 48000.0,
+      "memo": "Bluestone 4 (Pvt) LtdQuickBooks with Cloud Hosting - Single UserFrom Jan 2025 to Dec 2025Rs. 4,000 per user * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Estilo Apparel (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 12,
+      "end_year": 2025,
+      "amount": 78000.0,
+      "memo": "QuickBooks with Cloud Hosting (recurring)Jan 2025 - Dec 2025Rs. 6,500 per user per month * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Wardena Group:Megachem Engineering (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2025,
+      "end_day": 30,
+      "end_month": 6,
+      "end_year": 2025,
+      "amount": 39000.0,
+      "memo": "QuickBooks with Cloud Hosting - Additional User (HSR 4)Jan 2025 - June 2025Rs. 6,500 per user per month* 6 Months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Medilink Lanka (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 3,
+      "end_year": 2025,
+      "amount": 10800.0,
+      "memo": "QuickBooks with Cloud Hosting - Single User(Rs.3,600 per User* 3 months)Jan 2025 - Mar 2025"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Vista Multi Trading Company (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 12,
+      "end_year": 2025,
+      "amount": 66000.0,
+      "memo": "QuickBooks with Cloud Hosting (recurring) - Maradana (Vista1)Jan 2025 - Dec 2025Rs. 5,500 per user per month * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Solar Booze Pvt Ltd",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 12,
+      "end_year": 2025,
+      "amount": 78000.0,
+      "memo": "QuickBooks with Cloud Hosting - User 2 (SolarB2)Jan 2025 - Dec 2025Rs. 6,500 per user per month * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Kangara Holdings (Pvt) Ltd:Kangara Facility Management",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 12,
+      "end_year": 2025,
+      "amount": 78000.0,
+      "memo": "QuickBooks with Cloud Hosting - 1 User (KFM1)Jan 2025 - Dec 2025Rs. 6,500 (discounted to Rs. 6,000) per user per month * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Dress works Colombo (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 2,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 1,
+      "end_year": 2026,
+      "amount": 168000.0,
+      "memo": "QuickBooks with Cloud Hosting (recurring)Feb 2025 - Jan 2026Rs. 7,000 per user per month * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Wardena Group:Wichy International PTE Ltd",
+      "start_day": 1,
+      "start_month": 2,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 1,
+      "end_year": 2026,
+      "amount": 156000.0,
+      "memo": "QuickBooks with Cloud Hosting - Two Users(WI1 & WI2)Feb 2025 - Jan 2026Rs. 6,500 * 2 Users * 12 Months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "SUN QUEEN APPAREL (PRIVATE) LIMITED",
+      "start_day": 1,
+      "start_month": 3,
+      "start_year": 2024,
+      "end_day": 28,
+      "end_month": 2,
+      "end_year": 2025,
+      "amount": 234000.0,
+      "memo": "QuickBooks with Cloud Hosting - 3 users from March 2024 to Feb 2025 (Database 1)\nRs. 6,500 per user per month * 3 users * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Sun Queen Garments (Private) Limited",
+      "start_day": 1,
+      "start_month": 3,
+      "start_year": 2025,
+      "end_day": 28,
+      "end_month": 2,
+      "end_year": 2026,
+      "amount": 252000.0,
+      "memo": "QuickBooks with Cloud Hosting \nRs. 7,000 per User * 12 months * 3 User\n(Mar 2025- Feb 2026)"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Vista Multi Trading Company (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 2,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 1,
+      "end_year": 2026,
+      "amount": 66000.0,
+      "memo": "QuickBooks with Cloud Hosting (recurring) - Nugegoda (Vista2) Feb 2025 - Jan 2026Rs. 5,500 per user per month * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Sri Lanka Institute of Biotechnology (SLIBTEC)",
+      "start_day": 1,
+      "start_month": 3,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 8,
+      "end_year": 2025,
+      "amount": 300000.0,
+      "memo": "QuickBooks with Cloud Hosting (Dedicated Hosting) - Developer Trial Licenses\nRs. 10,000 per user per month * 6 months * 5 users\n(Mar 2025 - Aug 2025)"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Olee Natural Foods (Pvt) Ltd",
+      "start_day": 15,
+      "start_month": 2,
+      "start_year": 2025,
+      "end_day": 14,
+      "end_month": 5,
+      "end_year": 2025,
+      "amount": 24000.0,
+      "memo": "QuickBooks Enterprise Developer Trial with Cloud Hosting - Additional User (6th User: ONF6)15 Feb 2025 - 14 May 2025Rs. 8,000 per User * 3 Months* 1 Users"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Lead the Way Girls International (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 3,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 5,
+      "end_year": 2025,
+      "amount": 10800.0,
+      "memo": "QuickBooks with Cloud Hosting _ Single UserFrom Mar 2025 -  May 2025(Rs. 3,600*3 months)"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Zeus International (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 2,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 1,
+      "end_year": 2025,
+      "amount": 234000.0,
+      "memo": "QuickBooks with Cloud HostingRs 5,000 (discounted from 6,500) per user per month * 12 months * 3 usersZI1 - ZI3Feb 2024 - Jan 2025"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Medilink Lanka (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 4,
+      "start_year": 2025,
+      "end_day": 30,
+      "end_month": 6,
+      "end_year": 2025,
+      "amount": 10800.0,
+      "memo": "QuickBooks with Cloud Hosting - Single User(Rs.3,600 per User* 3 months)Apr 2025 - June 2025"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Vista Multi Trading Company (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 3,
+      "start_year": 2025,
+      "end_day": 28,
+      "end_month": 2,
+      "end_year": 2026,
+      "amount": 66000.0,
+      "memo": "QuickBooks with Cloud Hosting - Matara (Vista3)Mar 2025 - Feb 2026Rs. 5,500 per user per month * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Huskies Global",
+      "start_day": 1,
+      "start_month": 3,
+      "start_year": 2025,
+      "end_day": 28,
+      "end_month": 2,
+      "end_year": 2026,
+      "amount": 78000.0,
+      "memo": "QuickBooks with Cloud Hosting - 1 concurrent user (recurring)Mar 2025 - Feb 2026Rs. 6,500 per user per month * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Indochina Productions",
+      "start_day": 1,
+      "start_month": 3,
+      "start_year": 2024,
+      "end_day": 28,
+      "end_month": 2,
+      "end_year": 2025,
+      "amount": 336000.0,
+      "memo": "QuickBooks with Cloud Hosting - 4 UsersFrom Mar 2024 - Feb 2025General Price        : Rs. 7,000 per userDiscounted Price : 6, 700 per userRs.  6,700 per user per month * 12 months * 4 users"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Koragaha Lodge",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2025,
+      "end_day": 28,
+      "end_month": 2,
+      "end_year": 2026,
+      "amount": 78000.0,
+      "memo": "QuickBooks with Cloud Hosting - (KL 2)Rs. 6,500 per user per month * 12 monthsMar 2025 - Feb 2026"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Reitzel Walker (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 4,
+      "start_year": 2025,
+      "end_day": 30,
+      "end_month": 6,
+      "end_year": 2025,
+      "amount": 97500.0,
+      "memo": "QuickBooks with Cloud HostingFrom Apr 2025 - June 2025(Rs. 6,500* 5 Users* 3 months)"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Bluestone Capital (Pvt) Ltd:Bluestone 1 (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 4,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 3,
+      "end_year": 2026,
+      "amount": 45600.0,
+      "memo": "Bluestone 1 (Pvt) LtdQuickBooks with Cloud Hosting - Single Userfrom April 2025 to March 2026Rs. 3,800 per user * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Bluestone Capital (Pvt) Ltd:Bluestone 2 (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 4,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 3,
+      "end_year": 2026,
+      "amount": 45600.0,
+      "memo": "Bluestone 2 (Pvt) LtdQuickBooks with Cloud Hosting - Single UserFrom April 2025 to March 2026Rs. 3,800 per user * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Bluestone Capital (Pvt) Ltd:Bluestone 3 (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 4,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 3,
+      "end_year": 2026,
+      "amount": 45600.0,
+      "memo": "Bluestone 3 (Pvt) LtdQuickBooks with Cloud Hosting - Single UserFrom April 2025 to March 2026Rs. 3,800 per user * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Bluestone Capital (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 4,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 3,
+      "end_year": 2026,
+      "amount": 78000.0,
+      "memo": "Bluestone Capital (Pvt) LtdQuickBooks with Cloud Hosting - Single UserFrom April 2025 to March 2026Rs. 6,500 per user * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Vista Multi Trading Company (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 3,
+      "end_year": 2026,
+      "amount": 66000.0,
+      "memo": "QuickBooks with Cloud Hosting (recurring) - Galle (Vista4)Rs. 5,500 per user per month * 12 monthsApr 2025 - Mar 2026"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Wardena Group:Megachem Engineering (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 4,
+      "start_year": 2025,
+      "end_day": 30,
+      "end_month": 9,
+      "end_year": 2025,
+      "amount": 78000.0,
+      "memo": "QuickBooks with Cloud Hosting - 2 Additional Users(Megachem User 1& 2)Apr 2025 - Sep 2025Rs. 6,500 per user per month * 2 users * 6 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "SUN QUEEN APPAREL (PRIVATE) LIMITED",
+      "start_day": 1,
+      "start_month": 4,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 3,
+      "end_year": 2026,
+      "amount": 234000.0,
+      "memo": "QuickBooks with Cloud Hosting - New Database\nApril 2025 to Mar 2026\nRs. 6,500 per user per month * 3 users * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Federation of Information Technology Industry Sri Lanka",
+      "start_day": 1,
+      "start_month": 4,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 3,
+      "end_year": 2026,
+      "amount": 72000.0,
+      "memo": "QuickBooks with Cloud Hosting - 1 server user\nApr 2025 - Mar 2026\nRs. 6,000 per month * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Wardena Group:Megachem Engineering (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 10,
+      "end_year": 2025,
+      "amount": 78000.0,
+      "memo": "QuickBooks Premier with Cloud Hosting - Two Users(HSR 1& 3)Rs. 6,500 per User * 6 months * 2 UsersMay 2025 to Oct 2025"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Vaughan Chemicals",
+      "start_day": 1,
+      "start_month": 4,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 3,
+      "end_year": 2026,
+      "amount": 160800.0,
+      "memo": "QuickBooks with Cloud Hosting\nApril 2025 - Mar 2026\nRs. 6,700 per user per month * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Halford Group Lanka (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 5,
+      "start_year": 2025,
+      "end_day": 30,
+      "end_month": 4,
+      "end_year": 2026,
+      "amount": 78000.0,
+      "memo": "QuickBooks with Cloud Hosting - 1 User (Recurring)\nRs. 6,500 per user per month\nMay 2025 - Apr 2026"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Halford Group Lanka (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 5,
+      "start_year": 2025,
+      "end_day": 30,
+      "end_month": 4,
+      "end_year": 2026,
+      "amount": 4000.0,
+      "memo": "QuickBooks with Cloud Hosting - Additional Database Hosting UAE Branch (Recurring)\nRs. 4,000 per database per year * 1 databases \nMay 2025 - Apr 2026"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Klestro Manufacturing Company",
+      "start_day": 1,
+      "start_month": 4,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 3,
+      "end_year": 2026,
+      "amount": 144000.0,
+      "memo": "QuickBooks Enterprise (developer trial licenses) with Cloud Hosting - 2 users (recurring)\nRs. 6,000 per user per month * 12 months\nApril 2025 -  Mar 2026"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Karunaya Lanka (GTE) Ltd",
+      "start_day": 1,
+      "start_month": 6,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 5,
+      "end_year": 2026,
+      "amount": 78000.0,
+      "memo": "QuickBooks with Cloud Hosting - Single User\n(From June 2025 - May 2026)\n(Rs. 6,500 per User * 12 months)"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Kay Jay Electronics (Pvt) Ltd",
+      "start_day": 15,
+      "start_month": 5,
+      "start_year": 2025,
+      "end_day": 14,
+      "end_month": 5,
+      "end_year": 2026,
+      "amount": 72000.0,
+      "memo": "QuickBooks with Cloud Hosting - User KJE19\n15 May 2025 - 14 May 2026\nRs. 6,000 per user* 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "KayJay Agencies (Pvt) Ltd",
+      "start_day": 21,
+      "start_month": 5,
+      "start_year": 2025,
+      "end_day": 20,
+      "end_month": 5,
+      "end_year": 2026,
+      "amount": 234000.0,
+      "memo": "QuickBooks with Cloud Hosting\nRs. 6,500 per user per month * 12 months\n21 May 2025 - 20 May 2026\nKJA 11 - KJA 13"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Wildlife and Nature Protection Society",
+      "start_day": 1,
+      "start_month": 6,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 5,
+      "end_year": 2026,
+      "amount": 60000.0,
+      "memo": "QuickBooks with Cloud Hosting - 1 Users (annually recurring)\nRetail Price : Rs. 6,500\nDiscounted Price : Rs. 5,000\nRs. 5,000 per user per month * 1 users * 12 months\n(June 2025 - May 2026)"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Lead the Way Girls International (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 6,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 8,
+      "end_year": 2025,
+      "amount": 10800.0,
+      "memo": "QuickBooks with Cloud Hosting _ Single User\nFrom Jun 2025 -  Aug 2025\n(Rs. 3,600*3 months)"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Vista Multi Trading Company (Pvt) Ltd",
+      "start_day": 16,
+      "start_month": 6,
+      "start_year": 2025,
+      "end_day": 15,
+      "end_month": 6,
+      "end_year": 2026,
+      "amount": 132000.0,
+      "memo": "QuickBooks with Cloud Hosting - 2 additional users - Factory Outlet and Head Office (Vista5 and Vista6)\n16 June 2025 - 15 June 2026\nRs. 5,500 per user per month * 2 users * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Koragaha Lodge",
+      "start_day": 1,
+      "start_month": 6,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 5,
+      "end_year": 2026,
+      "amount": 78000.0,
+      "memo": "QuickBooks with Cloud Hosting - (KL 3)\nRs. 6,500 per user per month * 12 months\n\nJune 2025 - May 2026"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "ASESKA Corporate Consultants (Pvt) Ltd:The Creative Congress (Pvt) Ltd.",
+      "start_day": 1,
+      "start_month": 5,
+      "start_year": 2025,
+      "end_day": 30,
+      "end_month": 4,
+      "end_year": 2026,
+      "amount": 78000.0,
+      "memo": "QuickBooks with Cloud Hosting - 1 User \nMay 2025 - Apr 2026\nRs. 6,500 per user per month * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Street Burger (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 5,
+      "start_year": 2025,
+      "end_day": 30,
+      "end_month": 4,
+      "end_year": 2026,
+      "amount": 156000.0,
+      "memo": "QuickBooks with Cloud Hosting - SB1 & SB2\nRs. 6,500 per user per month * 12 months * 2 users\nMay 2025 - April 2026"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Lalan Eco-latex Pvt Ltd",
+      "start_day": 1,
+      "start_month": 5,
+      "start_year": 2025,
+      "end_day": 30,
+      "end_month": 4,
+      "end_year": 2026,
+      "amount": 312000.0,
+      "memo": "QuickBooks with Cloud Hosting\nRs. 6,500 per user per month * 12 months * 4 users\nMay 2025 - April 2026"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Olee Natural Foods (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 5,
+      "start_year": 2025,
+      "end_day": 30,
+      "end_month": 4,
+      "end_year": 2026,
+      "amount": 576000.0,
+      "memo": "QuickBooks Enterprise Developer Trial with Cloud Hosting - 6 Users (ONF1 - ONF6)\nRs. 8,000 per User * 12 Months* 6 Users\nMay 2025 - April 2026"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Upali Mills (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 6,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 10,
+      "end_year": 2025,
+      "amount": 47500.0,
+      "memo": "QuickBooks Enterprise Developer Trial Dedicated Cloud Hosting _ Additional User \nRs. 10,000 per user per month * 5 months \nDiscounted Price : Rs.9,500 per User\n(June 2024 - Oct 2025)"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Solar Booze Pvt Ltd",
+      "start_day": 16,
+      "start_month": 6,
+      "start_year": 2025,
+      "end_day": 15,
+      "end_month": 6,
+      "end_year": 2026,
+      "amount": 78000.0,
+      "memo": "QuickBooks with Cloud Hosting for Additional User \nUser 3 (SolarB3)\n16 June 2025 - 15 June 2026\nStandard Price : Rs.6,500 per User\nDiscounted Price : Rs. 6,000 per User\nRs. 6,500 per user per month * 12 months\nSales Order No:1749"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Koragaha Lodge",
+      "start_day": 1,
+      "start_month": 7,
+      "start_year": 2025,
+      "end_day": 30,
+      "end_month": 6,
+      "end_year": 2026,
+      "amount": 78000.0,
+      "memo": "QuickBooks with Cloud Hosting - 1st User (KL1)\nJuly 2025 - June 2026\nRs.6,500 per user * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Lead the Way Girls International (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 9,
+      "start_year": 2025,
+      "end_day": 30,
+      "end_month": 11,
+      "end_year": 2025,
+      "amount": 10800.0,
+      "memo": "QuickBooks with Cloud Hosting _ Single User\nFrom Sept 2025 -  Nov 2025\n(Rs. 3,600*3 months)"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Carino (Private) Limited",
+      "start_day": 1,
+      "start_month": 7,
+      "start_year": 2025,
+      "end_day": 30,
+      "end_month": 6,
+      "end_year": 2026,
+      "amount": 60000.0,
+      "memo": "QuickBooks with Cloud Hosting\nJuly 2025 - June 2026\n(Rs. 5,000* 12 Months)"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Medilink Lanka (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 7,
+      "start_year": 2025,
+      "end_day": 30,
+      "end_month": 9,
+      "end_year": 2025,
+      "amount": 10800.0,
+      "memo": "QuickBooks with Cloud Hosting - Single User\n(Rs.3,600 per User* 3 months)\nJuly 2025 - Sep 2025"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Reitzel Walker (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 7,
+      "start_year": 2025,
+      "end_day": 30,
+      "end_month": 9,
+      "end_year": 2025,
+      "amount": 97500.0,
+      "memo": "QuickBooks with Cloud Hosting\nFrom July 2025 - Sep 2025\n(Rs. 6,500* 5 Users* 3 months)"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Shadow Environmental Services (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 7,
+      "start_year": 2025,
+      "end_day": 30,
+      "end_month": 6,
+      "end_year": 2026,
+      "amount": 78000.0,
+      "memo": "QuickBooks with Cloud Hosting \nJuly 2025 - June 2026\nRs.6,500 User * 12 Months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "ASESKA Corporate Consultants (Pvt) Ltd:Hangla (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 9,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 8,
+      "end_year": 2026,
+      "amount": 90000.0,
+      "memo": "QuickBooks with Cloud Hosting - 1 User\nSep 2025 - Aug 2026\nRs. 7,500 per user per month * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Wardena Group:Megachem Engineering (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 7,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 12,
+      "end_year": 2025,
+      "amount": 39000.0,
+      "memo": "QuickBooks with Cloud Hosting - Additional User (HSR 4)\nJuly 2025 - December 2025\nRs. 6,500 per user per month* 6 Months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Kangara Holdings (Pvt) Ltd:Kanagara MaldivesMale (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 7,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 8,
+      "end_year": 2025,
+      "amount": 48000.0,
+      "memo": "QuickBooks with Cloud Hosting (Shared Hosting) - Enterprise Solution with Developer Trial License (recurring)\nJuly 2025 - August 2025\nGeneral Fee : Rs. 6,500 Per User\nDiscounted Fee : Rs. 6,000 Per User\nRs. 6,000 per user per month * 2 months * 4 users"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Kangara Holdings (Pvt) Ltd:Kanagara MaldivesMale (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 9,
+      "start_year": 2025,
+      "end_day": 30,
+      "end_month": 6,
+      "end_year": 2026,
+      "amount": 120000.0,
+      "memo": "QuickBooks with Cloud Hosting (Shared Hosting) - Enterprise Solution with Developer Trial License (recurring)\nSeptember 2025 - June 2026\nGeneral Fee : Rs. 6,500 Per User\nDiscounted Fee : Rs. 6,000 Per User\nRs. 6,000 per user per month * 10 months * 2 users"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Kangara Holdings (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 7,
+      "start_year": 2025,
+      "end_day": 30,
+      "end_month": 6,
+      "end_year": 2026,
+      "amount": 5000.0,
+      "memo": "QuickBooks with Cloud Hosting - 1 Additional Database (Kangara Holdings)\nRs. 5,000 per year per database\nJuly 2025 - June 2026"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Kangara Holdings (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 9,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 8,
+      "end_year": 2026,
+      "amount": 5000.0,
+      "memo": "QuickBooks with Cloud Hosting - Additional Database Hosting (K2 Products)\nSep 2025 - Aug 2026"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Upali Mills (Pvt) Ltd",
+      "start_day": 15,
+      "start_month": 7,
+      "start_year": 2025,
+      "end_day": 30,
+      "end_month": 10,
+      "end_year": 2025,
+      "amount": 33250.0,
+      "memo": "QuickBooks Enterprise Developer Trial Dedicated Cloud Hosting _ Additional User \nRs. 10,000 per user per month * 3.5 months \nDiscounted Price: Rs.9,500 per User\n(15 July 2025 - 30 Oct 2025)"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Kay Jay Electronics (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 8,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 7,
+      "end_year": 2026,
+      "amount": 72000.0,
+      "memo": "QuickBooks with Cloud Hosting - User KJE16\nAug 2025 - July 2026\nRs. 6,000 per user (discounted from 6,500) * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Kay Jay Electronics (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 7,
+      "start_year": 2025,
+      "end_day": 30,
+      "end_month": 6,
+      "end_year": 2026,
+      "amount": 1080000.0,
+      "memo": "QuickBooks with Dedicated Cloud Hosting - Enterprise Solution Developer Evaluation Licenses\nJuly 2025 - June 2026\nRs. 6,000 per user (discounted from 6,500) * 15 users * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Kay Jay Electronics (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 9,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 8,
+      "end_year": 2026,
+      "amount": 144000.0,
+      "memo": "QuickBooks with Cloud Hosting - User KJE17 & KJE18\nSep 2025 - Aug 2026\nRs. 6,000 per user (discounted from 6,500) * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "ASESKA Corporate Consultants (Pvt) Ltd:Nayomi's",
+      "start_day": 1,
+      "start_month": 9,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 8,
+      "end_year": 2026,
+      "amount": 156000.0,
+      "memo": "QuickBooks with Cloud Hosting\nSeptember 2025 - August 2026\nRs. 6,500 per user per month * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Molecule (Pvt) Limited",
+      "start_day": 1,
+      "start_month": 8,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 7,
+      "end_year": 2026,
+      "amount": 156000.0,
+      "memo": "QuickBooks Enterprise Developer Trial with Cloud Hosting \nShared Server : 135. ***.*.114\nUsers: 2 (MLC1 & MLC 2)\nAug 2025 - July 2026\nRs. 6,500* 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Chesmi Consolidated (Pvt) Ltd.:Aventura Holdings (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 9,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 8,
+      "end_year": 2026,
+      "amount": 78000.0,
+      "memo": "QuickBooks with Cloud Hosting\nRs. 6,500 per user per month * 12 months* 1 User\nSep 2025 - Aug 2026"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Chesmi Consolidated (Pvt) Ltd.:Telcey Services (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 9,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 8,
+      "end_year": 2026,
+      "amount": 78000.0,
+      "memo": "QuickBooks with Cloud Hosting\nRs. 6,500 per user per month * 12 months* 1 User\nSep 2025 - Aug 2026"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Chesmi Consolidated (Pvt) Ltd.:Chesmi Trading Company (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 9,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 8,
+      "end_year": 2026,
+      "amount": 156000.0,
+      "memo": "QuickBooks with Cloud Hosting\nRs. 6,500 per user per month * 12 months* 2 Users\nSep 2025 - Aug 2026"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Chesmi Consolidated (Pvt) Ltd.:Chesmi Trading Company (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 9,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 8,
+      "end_year": 2026,
+      "amount": 5000.0,
+      "memo": "QuickBooks with Cloud Hosting - Additional Database Hosting Charge: The Lounge Management (Pvt) Ltd \nSep 2025 - Aug 2026\nRs. 5,000 per Database per year * 1 Database"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Chesmi Consolidated (Pvt) Ltd.:Bronze Art (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 9,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 8,
+      "end_year": 2026,
+      "amount": 234000.0,
+      "memo": "QuickBooks with Cloud Hosting\nRs. 6,500 per user per month * 12 months* 3 Users\nSep 2025 - Aug 2026"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Chesmi Consolidated (Pvt) Ltd.:Bronze Art (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 9,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 8,
+      "end_year": 2026,
+      "amount": 15000.0,
+      "memo": "QuickBooks with Cloud Hosting - Additional Database Hosting Charges\nSep 2025 - Aug 2026\nRs. 5,000 per Database per year * 3 Database\n\nNames of the Additional Databases\n~Akamai Communication Company (Pvt) Ltd \n~Chelcey Solutions (Pvt) Ltd\n~Homewind INC."
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Upali Mills (Pvt) Ltd",
+      "start_day": 21,
+      "start_month": 8,
+      "start_year": 2025,
+      "end_day": 20,
+      "end_month": 8,
+      "end_year": 2026,
+      "amount": 342000.0,
+      "memo": "QuickBooks Enterprise Developer Trial Dedicated Cloud Hosting _ 3 Additional Users \nRs. 10,000 per user per month * 12 months \nDiscounted Price: Rs.9,500 per User\n(21 Aug 2025 - 20 Aug 2026)"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "RDT Natural (Pvt) Ltd",
+      "start_day": 21,
+      "start_month": 8,
+      "start_year": 2025,
+      "end_day": 20,
+      "end_month": 8,
+      "end_year": 2026,
+      "amount": 114000.0,
+      "memo": "QuickBooks Enterprise Developer Trial with Cloud Hosting - Additional User\n\nStandard Price : Rs. 10,000\nDiscounted Price : Rs. 9,500\n\nRs. 9,500* 1 Users * 12 Months\n21 Aug 2025 - 20 Aug 2026"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "ASESKA Corporate Consultants (Pvt) Ltd:W.CALISTUS B. PERERA & SONS (PVT) LTD",
+      "start_day": 1,
+      "start_month": 8,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 7,
+      "end_year": 2026,
+      "amount": 90000.0,
+      "memo": "QuickBooks with Cloud Hosting - 1 User\nRs. 7,500 per user per month * 12 months\nAug 2025 - July 2026"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Sri Lanka Institute of Biotechnology (SLIBTEC)",
+      "start_day": 1,
+      "start_month": 9,
+      "start_year": 2025,
+      "end_day": 28,
+      "end_month": 2,
+      "end_year": 2026,
+      "amount": 240000.0,
+      "memo": "QuickBooks with Cloud Hosting (Dedicated Hosting) - Developer Trial Licenses\nRs. 10,000 per user per month * 6 months * 4 users\n(Sep 2025 - Feb 2026)\n\nServer Users: \n~SLIBTEC 1\n~SLIBTEC 2\n~SLIBTEC 3                    \n~SLIBTEC 5"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Chroma Chemie Clothing Solutions (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 9,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 8,
+      "end_year": 2026,
+      "amount": 156000.0,
+      "memo": "QuickBooks with Cloud Hosting - 2 Users\nSep 2025 - Aug 2026\nRs.6,500 per user (discounted to Rs 6,000) * 2 Users * 12 Months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Acrus Travels & Tours (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 9,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 8,
+      "end_year": 2026,
+      "amount": 244800.0,
+      "memo": "QuickBooks with Cloud Hosting\nRs. 6,800 per user per month * 3 users * 12 months\nSept 2025 - Aug 2026\n\nServer users: ACRUS 1, ACRUS 2, ACRUS 3"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Acrus Travels & Tours (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 9,
+      "start_year": 2026,
+      "end_day": 31,
+      "end_month": 8,
+      "end_year": 2027,
+      "amount": 15000.0,
+      "memo": "QuickBooks with Cloud Hosting - Additional database Hosting Charges\n\u2022\tAcrus Freighters KPMG\n\u2022\tAcrus Shipping Hub (PTE) Limited\n\u2022\tSagarshakti (Pvt) Ltd\n\nRs. 5,000 per year per database\nSept 2026 - Aug 2027"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Wardena Group:Megachem Engineering (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 10,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 3,
+      "end_year": 2026,
+      "amount": 78000.0,
+      "memo": "QuickBooks with Cloud Hosting - 2 Additional Users\n(Megachem User 1& 2)\nOct 2025 - Mar 2026\nRs. 6,500 per user per month * 2 users * 6 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Fairway Urban Homes Management Corporation Plan 18094",
+      "start_day": 1,
+      "start_month": 8,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 7,
+      "end_year": 2026,
+      "amount": 72000.0,
+      "memo": "QuickBooks with Cloud Hosting - 1 Concurrent User\n(Aug 2025 - July 2026)\nMid-year Discount 1/3 Applied\nStandard Fee     : Rs. 6,000*12 = Rs. 72,000\nDiscounted Fee : Rs. 4,000*12 = Rs.48,000"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Reitzel Walker (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 10,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 12,
+      "end_year": 2025,
+      "amount": 78000.0,
+      "memo": "QuickBooks with Cloud Hosting\nFrom Oct 2025 - Dec 2025\n(Rs. 6,500* 4 Users* 3 months)"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Swedlanka  Business (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 9,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 8,
+      "end_year": 2026,
+      "amount": 80400.0,
+      "memo": "QuickBooks with Cloud Hosting - 1 user\nRs. 6,700 per user per month * 1 user * 12 months\nSept 2025 - Aug 2026"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Indochina Productions",
+      "start_day": 1,
+      "start_month": 10,
+      "start_year": 2025,
+      "end_day": 30,
+      "end_month": 9,
+      "end_year": 2026,
+      "amount": 80400.0,
+      "memo": "QuickBooks with Cloud Hosting - Additional User (ICP5)\nRs. 6,700 per user per month\nOct 2025 - Sept 2026"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Vista Multi Trading Company (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 10,
+      "start_year": 2025,
+      "end_day": 30,
+      "end_month": 9,
+      "end_year": 2026,
+      "amount": 66000.0,
+      "memo": "QuickBooks with Cloud Hosting - Stores (Vista7)\nOct 2025 - Sep 2026\nRs. 5,500 per user per month * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Wardena Group:Megachem Engineering (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 11,
+      "start_year": 2025,
+      "end_day": 30,
+      "end_month": 4,
+      "end_year": 2026,
+      "amount": 78000.0,
+      "memo": "QuickBooks Premier with Cloud Hosting - Two Users\n(HSR 1& 3)\nRs. 6,500 per User * 6 months * 2 Users\nNov 2025 to Apr 2026"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Upali Mills (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 11,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 10,
+      "end_year": 2026,
+      "amount": 1320000.0,
+      "memo": "QuickBooks Enterprise Developer Trial Dedicated Cloud Hosting\nRs. 10,000 per user per month * 12 months \n(Nov 2025 - Oct 2026)\n\nServer specs:\nProcessor: Intel Core i7 / AMD Ryzen 7\nRAM: up to 64 GB\nSpace: up to 1 TB NVMe\nOS: Windows Server 2019\nVPN: Cloudflare Zero trust \nLocation: Germany / Finland / USA"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Upali Mills (Pvt) Ltd",
+      "start_day": 21,
+      "start_month": 8,
+      "start_year": 2026,
+      "end_day": 30,
+      "end_month": 10,
+      "end_year": 2026,
+      "amount": 69999.99,
+      "memo": "QuickBooks with Cloud Hosting - Additional Users 3\n21 Aug 2026 - 30 Oct 2026\n10,000 per month* 2 Months 10 Days"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Gen Zee Holdings (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 10,
+      "start_year": 2025,
+      "end_day": 30,
+      "end_month": 9,
+      "end_year": 2026,
+      "amount": 72000.0,
+      "memo": "QuickBooks with Cloud Hosting - 1 User\nRs. 6,000 per user per month * 12 months\nOct 2025 - Sep 2026"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Asia Securities (Pvt) Ltd:Mandala Properties (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 11,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 10,
+      "end_year": 2026,
+      "amount": 5000.0,
+      "memo": "QuickBooks with Cloud Hosting -  Additional Database Hosting\nMandala Properties (Pvt) Ltd\nNov 2025 - Oct 2026"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Chesmi Consolidated (Pvt) Ltd.:Montlush Living (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 11,
+      "start_year": 2025,
+      "end_day": 31,
+      "end_month": 8,
+      "end_year": 2026,
+      "amount": 65000.0,
+      "memo": "QuickBooks with Cloud Hosting (Montlush) \nRs. 6,500 per user per month * 10 months\nNov 2025 - Aug 2026"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Vesna Lanka (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2026,
+      "end_day": 31,
+      "end_month": 12,
+      "end_year": 2026,
+      "amount": 180000.0,
+      "memo": "QuickBooks with Cloud Hosting\nJan 2026 - Dec 2026\nRs.7,500* 2 Users* 12 Months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Reitzel Walker (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2026,
+      "end_day": 31,
+      "end_month": 3,
+      "end_year": 2026,
+      "amount": 78000.0,
+      "memo": "QuickBooks with Cloud Hosting\nFrom Jan 2026 - Mar 2026\n(Rs. 6,500* 4 Users* 3 months)"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Vista Multi Trading Company (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 1,
+      "start_year": 2026,
+      "end_day": 31,
+      "end_month": 12,
+      "end_year": 2026,
+      "amount": 72000.0,
+      "memo": "QuickBooks with Cloud Hosting (recurring) - Maradana (Vista1)\nJan 2026 - Dec 2026\nRs. 6,000 per user per month * 12 months"
+    },
+    {
+      "product": "QB CLOUD",
+      "customer": "Vista Multi Trading Company (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 2,
+      "start_year": 2026,
+      "end_day": 31,
+      "end_month": 1,
+      "end_year": 2027,
+      "amount": 72000.0,
+      "memo": "QuickBooks with Cloud Hosting (recurring) - Nugegoda (Vista2) \nFeb 2026 - Jan 2027\nRs. 6,000 per user per month * 12 months"
+    },
+    {
+      "product": "QBO PLUS",
+      "customer": "Snap Ferd (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 4,
+      "start_year": 2023,
+      "end_day": 31,
+      "end_month": 5,
+      "end_year": 2023,
+      "amount": 27830.0,
+      "memo": "QuickBooks Online Plus - Apr 2023 to May 2023\n(AUD 60.5 * Rs.230 * 2 Months)"
+    },
+    {
+      "product": "QBO PLUS",
+      "customer": "Crystal Property Group",
+      "start_day": 1,
+      "start_month": 6,
+      "start_year": 2023,
+      "end_day": 30,
+      "end_month": 11,
+      "end_year": 2023,
+      "amount": 83490.0,
+      "memo": "QuickBooks Online Plus: from June 2023 to November 2023\nAUD 60.5 * LKR 230 * 6 months"
+    },
+    {
+      "product": "QBO PLUS",
+      "customer": "AVS Holdings (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 7,
+      "start_year": 2023,
+      "end_day": 30,
+      "end_month": 6,
+      "end_year": 2024,
+      "amount": 140000.0,
+      "memo": "QuickBooks Online Plus from July 2023 to June 2024"
+    },
+    {
+      "product": "QBO PLUS",
+      "customer": "Crystal Property Group",
+      "start_day": 1,
+      "start_month": 12,
+      "start_year": 2023,
+      "end_day": 30,
+      "end_month": 11,
+      "end_year": 2024,
+      "amount": 148830.0,
+      "memo": "QuickBooks Online Plus: from December 2023 to November 2024\nAUD 60.5 * LKR 230 * 12 months"
+    },
+    {
+      "product": "QBO PLUS",
+      "customer": "Sincon International (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 5,
+      "start_year": 2025,
+      "end_day": 30,
+      "end_month": 4,
+      "end_year": 2026,
+      "amount": 186000.0,
+      "memo": "QuickBooks Online Plus Australian Version \n1 Subscription /1 Company Database\nComes with 5 concurrent users\nRs. 15,500 per month * 12 months\nMay 2025 - April 2026"
+    },
+    {
+      "product": "QBO PLUS",
+      "customer": "AVS Holdings (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 7,
+      "start_year": 2024,
+      "end_day": 30,
+      "end_month": 6,
+      "end_year": 2025,
+      "amount": 147600.0,
+      "memo": "QuickBooks Online Plus from July 2024 to June 2025QBO Plus Subscription Fee: AUD 60 per monthAUD 60*12 months* Rs. 205"
+    },
+    {
+      "product": "QBO PLUS",
+      "customer": "Crystal Property Group",
+      "start_day": 1,
+      "start_month": 12,
+      "start_year": 2024,
+      "end_day": 30,
+      "end_month": 11,
+      "end_year": 2025,
+      "amount": 169740.0,
+      "memo": "QuickBooks Online Plus: from December 2024 to November 2025AUD 69 * LKR 205 * 12 months"
+    },
+    {
+      "product": "QBO PLUS",
+      "customer": "Crystal Property Group:The Six Villas",
+      "start_day": 1,
+      "start_month": 10,
+      "start_year": 2024,
+      "end_day": 30,
+      "end_month": 9,
+      "end_year": 2025,
+      "amount": 169740.0,
+      "memo": "QuickBooks Online Plus: from October 2024 to September 2025AUD 69 * LKR 205 * 12 months"
+    },
+    {
+      "product": "QBO PLUS",
+      "customer": "North West Marine (Pvt) Ltd",
+      "start_day": 1,
+      "start_month": 9,
+      "start_year": 2024,
+      "end_day": 31,
+      "end_month": 8,
+      "end_year": 2025,
+      "amount": 169740.0,
+      "memo": "QuickBooks Online Plus: from September 2024 to August 2025AUD 69 * LKR 205 * 12 months"
+    }
+  ],
+  "overlapping_customers": {
+    "Crystal Property Group": {
+      "QB AMC": [
+        [
+          "QuickBooks Annual Maintenance ..."
+        ],
+        [
+          "QuickBooks Annual Maintenance ..."
+        ],
+        [
+          "QuickBooks Annual Maintenance ..."
+        ]
+      ],
+      "QBO PLUS": [
+        [
+          "QuickBooks Online Plus: from J..."
+        ],
+        [
+          "QuickBooks Online Plus: from D..."
+        ],
+        [
+          "QuickBooks Online Plus: from D..."
+        ]
+      ]
+    },
+    "Asia Securities (Pvt) Ltd": {
+      "QB AMC": [
+        [
+          "QuickBooks Local Support Servi...",
+          "QuickBooks Local Support Servi..."
+        ],
+        [
+          "QuickBooks Local Support Servi..."
+        ]
+      ],
+      "QB CLOUD": [
+        [
+          "Additional Database Hosting Fe...",
+          "Additional Database Hosting Fe..."
+        ]
+      ]
+    },
+    "SF Group (Pvt) Ltd": {
+      "QB AMC": [
+        [
+          "QuickBooks Annual Maintenance ...",
+          "QuickBooks Annual Maintenance ..."
+        ],
+        [
+          "QuickBooks Annual Maintenance ..."
+        ]
+      ]
+    },
+    "AVS Holdings (Pvt) Ltd": {
+      "QB AMC": [
+        [
+          "QuickBooks Annual Maintenance ..."
+        ],
+        [
+          "QuickBooks Annual Maintenance ..."
+        ]
+      ],
+      "QBO PLUS": [
+        [
+          "QuickBooks Online Plus from Ju..."
+        ],
+        [
+          "QuickBooks Online Plus from Ju..."
+        ]
+      ]
+    },
+    "AIBT Campus": {
+      "QB AMC": [
+        [
+          "QuickBooks Annual Maintenance ..."
+        ],
+        [
+          "QuickBooks Annual Maintenance ..."
+        ]
+      ]
+    },
+    "Abesinghe Farm House": {
+      "QB AMC": [
+        [
+          "QuickBooks Annual Maintenance\n..."
+        ],
+        [
+          "QuickBooks Annual MaintenanceQ..."
+        ]
+      ]
+    },
+    "Transport Connectivity and Asset Management Project": {
+      "QB AMC": [
+        [
+          "QuickBooks Annual Maintenance ..."
+        ],
+        [
+          "QuickBooks Annual Maintenance ..."
+        ]
+      ]
+    },
+    "Sun Queen Garments (Private) Limited": {
+      "QB CLOUD": [
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks with Cloud Hosting ..."
+        ]
+      ]
+    },
+    "SUN QUEEN APPAREL (PRIVATE) LIMITED": {
+      "QB CLOUD": [
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ]
+      ]
+    },
+    "Lead the Way Girls International (Pvt) Ltd": {
+      "QB CLOUD": [
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ]
+      ]
+    },
+    "Medilink Lanka (Pvt) Ltd": {
+      "QB CLOUD": [
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ]
+      ]
+    },
+    "Vista Multi Trading Company (Pvt) Ltd": {
+      "QB CLOUD": [
+        [
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks with Cloud Hosting ..."
+        ]
+      ]
+    },
+    "Reitzel Walker (Pvt) Ltd": {
+      "QB CLOUD": [
+        [
+          "QuickBooks with Cloud Hosting\n..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting\n..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting\n..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting\n..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting\n..."
+        ],
+        [
+          "QuickBooks with Cloud HostingF...",
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud HostingF..."
+        ],
+        [
+          "QuickBooks with Cloud HostingF..."
+        ],
+        [
+          "QuickBooks with Cloud HostingF..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting\n..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting\n..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting\n..."
+        ]
+      ]
+    },
+    "Bluestone Capital (Pvt) Ltd": {
+      "QB CLOUD": [
+        [
+          "Bluestone Capital (Pvt) Ltd\nQu..."
+        ],
+        [
+          "Bluestone Capital (Pvt) Ltd\nQu..."
+        ],
+        [
+          "Bluestone Capital (Pvt) LtdQui..."
+        ]
+      ]
+    },
+    "Bluestone Capital (Pvt) Ltd:Bluestone 1 (Pvt) Ltd": {
+      "QB CLOUD": [
+        [
+          "Bluestone 1 (Pvt) Ltd\nQuickBoo..."
+        ],
+        [
+          "Bluestone 1 (Pvt) Ltd\nQuickBoo..."
+        ],
+        [
+          "Bluestone 1 (Pvt) LtdQuickBook..."
+        ]
+      ]
+    },
+    "Bluestone Capital (Pvt) Ltd:Bluestone 2 (Pvt) Ltd": {
+      "QB CLOUD": [
+        [
+          "Bluestone 2 (Pvt) Ltd\nQuickBoo..."
+        ],
+        [
+          "Bluestone 2 (Pvt) Ltd\nQuickBoo..."
+        ],
+        [
+          "Bluestone 2 (Pvt) LtdQuickBook..."
+        ]
+      ]
+    },
+    "Bluestone Capital (Pvt) Ltd:Bluestone 3 (Pvt) Ltd": {
+      "QB CLOUD": [
+        [
+          "Bluestone 3 (Pvt) Ltd\nQuickBoo..."
+        ],
+        [
+          "Bluestone 3 (Pvt) Ltd\nQuickBoo..."
+        ],
+        [
+          "Bluestone 3 (Pvt) LtdQuickBook..."
+        ]
+      ]
+    },
+    "Federation of Information Technology Industry Sri Lanka": {
+      "QB CLOUD": [
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ]
+      ]
+    },
+    "Karunaya Lanka (GTE) Ltd": {
+      "QB CLOUD": [
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ]
+      ]
+    },
+    "Wardena Group:Megachem Engineering (Pvt) Ltd": {
+      "QB CLOUD": [
+        [
+          "QuickBooks Premier with Cloud ...",
+          "QuickBooks Premier with Cloud ...",
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks Premier with Cloud ...",
+          "QuickBooks Premier with Cloud ...",
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks Premier with Cloud ...",
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks Premier with Cloud ..."
+        ]
+      ]
+    },
+    "Lalan Eco-latex Pvt Ltd": {
+      "QB CLOUD": [
+        [
+          "QuickBooks with Cloud Hosting\n...",
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks with Cloud Hosting\n..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting\n..."
+        ]
+      ]
+    },
+    "Sri Delivery": {
+      "QB CLOUD": [
+        [
+          "QuickBooks with Cloud Hosting\n...",
+          "QuickBooks with Cloud HostingR..."
+        ]
+      ]
+    },
+    "Street Burger (Pvt) Ltd": {
+      "QB CLOUD": [
+        [
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks with Cloud Hosting ..."
+        ]
+      ]
+    },
+    "Trumps Solutions (Pvt) Ltd": {
+      "QB CLOUD": [
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ]
+      ]
+    },
+    "ASESKA Corporate Consultants (Pvt) Ltd:Amazing Tribes (Pvt) Ltd": {
+      "QB CLOUD": [
+        [
+          "QuickBooks with Cloud Hosting\n...",
+          "QuickBooks with Cloud HostingJ..."
+        ]
+      ]
+    },
+    "Shadow Environmental Services (Pvt) Ltd": {
+      "QB CLOUD": [
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ]
+      ]
+    },
+    "Carino (Private) Limited": {
+      "QB CLOUD": [
+        [
+          "QuickBooks with Cloud Hosting\n...",
+          "QuickBooks with Cloud HostingJ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting\n..."
+        ]
+      ]
+    },
+    "Asia Securities (Pvt) Ltd:Mandala Ventures (Pvt) Ltd": {
+      "QB CLOUD": [
+        [
+          "Additional Database Hosting Fe...",
+          "Additional Database Hosting Fe..."
+        ]
+      ]
+    },
+    "ASESKA Corporate Consultants (Pvt) Ltd:Lala Restaurants & Hotels (Pvt) Ltd": {
+      "QB CLOUD": [
+        [
+          "QuickBooks with Cloud Hosting\n...",
+          "QuickBooks with Cloud HostingR..."
+        ]
+      ]
+    },
+    "Dilchand (Pvt) Ltd": {
+      "QB CLOUD": [
+        [
+          "QuickBooks with Cloud Hosting\n...",
+          "QuickBooks with Cloud HostingR..."
+        ]
+      ]
+    },
+    "Acrus Travels & Tours (Pvt) Ltd": {
+      "QB CLOUD": [
+        [
+          "QuickBooks with Cloud Hosting\n...",
+          "QuickBooks with Cloud HostingR..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting\n..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ]
+      ]
+    },
+    "Chesmi Consolidated (Pvt) Ltd.:Chesmi Trading Company (Pvt) Ltd": {
+      "QB CLOUD": [
+        [
+          "QuickBooks with Cloud Hosting\n...",
+          "QuickBooks with Cloud HostingR..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting\n...",
+          "QuickBooks with Cloud Hosting ..."
+        ]
+      ]
+    },
+    "Chesmi Consolidated (Pvt) Ltd.:Bronze Art (Pvt) Ltd": {
+      "QB CLOUD": [
+        [
+          "QuickBooks with Cloud Hosting\n..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting\n..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting\n...",
+          "QuickBooks with Cloud Hosting ..."
+        ]
+      ]
+    },
+    "Swedlanka  Business (Pvt) Ltd": {
+      "QB CLOUD": [
+        [
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ]
+      ]
+    },
+    "ASESKA Corporate Consultants (Pvt) Ltd:Nayomi's": {
+      "QB CLOUD": [
+        [
+          "QuickBooks with Cloud Hosting\n...",
+          "QuickBooks with Cloud HostingS..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting\n..."
+        ]
+      ]
+    },
+    "KayJay Agencies (Pvt) Ltd": {
+      "QB CLOUD": [
+        [
+          "QuickBooks with Cloud HostingR..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting\n...",
+          "QuickBooks with Cloud Hosting\n..."
+        ]
+      ]
+    },
+    "Wardena Group:Wardena Venture Holdings (Pvt) Ltd": {
+      "QB CLOUD": [
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ]
+      ]
+    },
+    "Jeewaayu (Private) Limited": {
+      "QB CLOUD": [
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting\n..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ]
+      ]
+    },
+    "LYNEAR Wealth Management (Pvt) Limited": {
+      "QB CLOUD": [
+        [
+          "QuickBooks with Cloud Hosting\n...",
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks Premier with Cloud ...",
+          "QuickBooks with Cloud Hosting ..."
+        ]
+      ]
+    },
+    "Nine Nine Hardware City": {
+      "QB CLOUD": [
+        [
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks with Cloud Hosting ..."
+        ]
+      ]
+    },
+    "TBS International (Pvt) Ltd": {
+      "QB CLOUD": [
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ]
+      ]
+    },
+    "The Recovery Room": {
+      "QB CLOUD": [
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ]
+      ]
+    },
+    "Estilo Apparel (Pvt) Ltd": {
+      "QB CLOUD": [
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ]
+      ]
+    },
+    "Kay Jay Electronics (Pvt) Ltd": {
+      "QB CLOUD": [
+        [
+          "QuickBooks with Dedicated Clou...",
+          "QuickBooks with Dedicated Clou...",
+          "QuickBooks with Dedicated Clou...",
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks with Dedicated Clou...",
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks with Cloud Hosting ..."
+        ]
+      ]
+    },
+    "Dress works Colombo (Pvt) Ltd": {
+      "QB CLOUD": [
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ]
+      ]
+    },
+    "Wardena Group:Wichy International PTE Ltd": {
+      "QB CLOUD": [
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ]
+      ]
+    },
+    "Bluestone Capital (Pvt) Ltd:Bluestone 4 (Pvt) Ltd": {
+      "QB CLOUD": [
+        [
+          "Bluestone 4 (Pvt) Ltd\nQuickBoo..."
+        ],
+        [
+          "Bluestone 4 (Pvt) LtdQuickBook..."
+        ]
+      ]
+    },
+    "Vaughan Chemicals": {
+      "QB CLOUD": [
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting\n...",
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting\n..."
+        ]
+      ]
+    },
+    "Huskies Global": {
+      "QB CLOUD": [
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ]
+      ]
+    },
+    "Indochina Productions": {
+      "QB CLOUD": [
+        [
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ]
+      ]
+    },
+    "Klestro Manufacturing Company": {
+      "QB CLOUD": [
+        [
+          "QuickBooks Enterprise (develop..."
+        ],
+        [
+          "QuickBooks Enterprise (develop..."
+        ]
+      ]
+    },
+    "Koragaha Lodge": {
+      "QB CLOUD": [
+        [
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks with Cloud Hosting ..."
+        ]
+      ]
+    },
+    "Halford Group Lanka (Pvt) Ltd": {
+      "QB CLOUD": [
+        [
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks with Cloud Hosting ..."
+        ]
+      ]
+    },
+    "ASESKA Corporate Consultants (Pvt) Ltd:The Creative Congress (Pvt) Ltd.": {
+      "QB CLOUD": [
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ]
+      ]
+    },
+    "Wildlife and Nature Protection Society": {
+      "QB CLOUD": [
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ]
+      ]
+    },
+    "Olee Natural Foods (Pvt) Ltd": {
+      "QB CLOUD": [
+        [
+          "QuickBooks Enterprise Develope...",
+          "QuickBooks Enterprise Develope...",
+          "QuickBooks Enterprise Develope..."
+        ]
+      ]
+    },
+    "ASESKA Corporate Consultants (Pvt) Ltd:W.CALISTUS B. PERERA & SONS (PVT) LTD": {
+      "QB CLOUD": [
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ]
+      ]
+    },
+    "Kangara Holdings (Pvt) Ltd": {
+      "QB CLOUD": [
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks with Cloud Hosting ..."
+        ]
+      ]
+    },
+    "ASESKA Corporate Consultants (Pvt) Ltd:Hangla (Pvt) Ltd": {
+      "QB CLOUD": [
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ]
+      ]
+    },
+    "Fairway Urban Homes Management Corporation Plan 18094": {
+      "QB CLOUD": [
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ]
+      ]
+    },
+    "Sri Lanka Institute of Biotechnology (SLIBTEC)": {
+      "QB CLOUD": [
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ]
+      ]
+    },
+    "Chesmi Consolidated (Pvt) Ltd.:Telcey Services (Pvt) Ltd": {
+      "QB CLOUD": [
+        [
+          "QuickBooks with Cloud HostingR..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting\n..."
+        ]
+      ]
+    },
+    "Chroma Chemie Clothing Solutions (Pvt) Ltd": {
+      "QB CLOUD": [
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ]
+      ]
+    },
+    "Molecule (Pvt) Limited": {
+      "QB CLOUD": [
+        [
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks Enterprise Develope..."
+        ]
+      ]
+    },
+    "Solar Booze Pvt Ltd": {
+      "QB CLOUD": [
+        [
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks with Cloud Hosting ..."
+        ]
+      ]
+    },
+    "Upali Mills (Pvt) Ltd": {
+      "QB CLOUD": [
+        [
+          "QuickBooks with Cloud Hosting ...",
+          "QuickBooks Enterprise Develope...",
+          "QuickBooks Enterprise Develope...",
+          "QuickBooks Enterprise Develope...",
+          "QuickBooks Enterprise Develope...",
+          "QuickBooks Enterprise Develope...",
+          "QuickBooks with Cloud Hosting ..."
+        ]
+      ]
+    },
+    "Chesmi Consolidated (Pvt) Ltd.:Aventura Holdings (Pvt) Ltd": {
+      "QB CLOUD": [
+        [
+          "QuickBooks with Cloud HostingR..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting\n..."
+        ]
+      ]
+    },
+    "Vesna Lanka (Pvt) Ltd": {
+      "QB CLOUD": [
+        [
+          "QuickBooks with Cloud HostingJ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting\n..."
+        ]
+      ]
+    },
+    "RDT Natural (Pvt) Ltd": {
+      "QB CLOUD": [
+        [
+          "QuickBooks Enterprise Develope...",
+          "QuickBooks Enterprise Develope..."
+        ]
+      ]
+    },
+    "Kangara Holdings (Pvt) Ltd:Kanagara MaldivesMale (Pvt) Ltd": {
+      "QB CLOUD": [
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ],
+        [
+          "QuickBooks with Cloud Hosting ..."
+        ]
+      ]
+    }
+  },
+  "pending": [
+    {
+      "customer": "Crystal Property Group",
+      "service": "QB AMC",
+      "last_start": "2024-12-01",
+      "last_end": "2025-11-30",
+      "last_amount": 55000.0
+    },
+    {
+      "customer": "Crystal Property Group",
+      "service": "QBO PLUS",
+      "last_start": "2024-12-01",
+      "last_end": "2025-11-30",
+      "last_amount": 169740.0
+    },
+    {
+      "customer": "Asia Securities (Pvt) Ltd",
+      "service": "QB CLOUD",
+      "last_start": "2024-01-01",
+      "last_end": "2025-08-31",
+      "last_amount": 5000.0
+    },
+    {
+      "customer": "AVS Holdings (Pvt) Ltd",
+      "service": "QB AMC",
+      "last_start": "2024-07-01",
+      "last_end": "2025-06-30",
+      "last_amount": 27500.0
+    },
+    {
+      "customer": "AVS Holdings (Pvt) Ltd",
+      "service": "QBO PLUS",
+      "last_start": "2024-07-01",
+      "last_end": "2025-06-30",
+      "last_amount": 147600.0
+    },
+    {
+      "customer": "AIBT Campus",
+      "service": "QB AMC",
+      "last_start": "2024-10-01",
+      "last_end": "2025-09-30",
+      "last_amount": 20000.0
+    },
+    {
+      "customer": "Abesinghe Farm House",
+      "service": "QB AMC",
+      "last_start": "2024-11-01",
+      "last_end": "2025-10-31",
+      "last_amount": 36000.0
+    },
+    {
+      "customer": "Transport Connectivity & Asset Management Project (TCAMP) - Road Development Authority",
+      "service": "QB AMC",
+      "last_start": "2024-01-01",
+      "last_end": "2024-12-31",
+      "last_amount": 20000.0
+    },
+    {
+      "customer": "Transport Connectivity and Asset Management Project",
+      "service": "QB AMC",
+      "last_start": "2024-12-01",
+      "last_end": "2025-11-30",
+      "last_amount": 15000.0
+    },
+    {
+      "customer": "Frankils Developments (Pvt) Ltd",
+      "service": "QB AMC",
+      "last_start": "2024-02-01",
+      "last_end": "2025-01-31",
+      "last_amount": 20000.0
+    },
+    {
+      "customer": "Sri Delivery:Meethirigala Nissarana Wanaya Sanrakshana Mandalaya",
+      "service": "QB AMC",
+      "last_start": "2024-04-01",
+      "last_end": "2025-03-31",
+      "last_amount": 20000.0
+    },
+    {
+      "customer": "Rovenka Holdings (Pvt) Ltd",
+      "service": "QB AMC",
+      "last_start": "2024-04-01",
+      "last_end": "2025-03-31",
+      "last_amount": 20000.0
+    },
+    {
+      "customer": "OLA Bookshop (Pvt) Ltd",
+      "service": "QB AMC",
+      "last_start": "2024-07-01",
+      "last_end": "2025-06-30",
+      "last_amount": 20000.0
+    },
+    {
+      "customer": "Mallika Hemachandra Jewellers (Pvt) Ltd",
+      "service": "QB AMC",
+      "last_start": "2024-08-01",
+      "last_end": "2025-07-31",
+      "last_amount": 25000.0
+    },
+    {
+      "customer": "Crystal Property Group:The Six Villas",
+      "service": "QB AMC",
+      "last_start": "2024-10-01",
+      "last_end": "2025-09-30",
+      "last_amount": 55000.0
+    },
+    {
+      "customer": "Crystal Property Group:The Six Villas",
+      "service": "QBO PLUS",
+      "last_start": "2024-10-01",
+      "last_end": "2025-09-30",
+      "last_amount": 169740.0
+    },
+    {
+      "customer": "North West Marine (Pvt) Ltd",
+      "service": "QB AMC",
+      "last_start": "2024-09-01",
+      "last_end": "2025-08-31",
+      "last_amount": 30000.0
+    },
+    {
+      "customer": "North West Marine (Pvt) Ltd",
+      "service": "QBO PLUS",
+      "last_start": "2024-09-01",
+      "last_end": "2025-08-31",
+      "last_amount": 169740.0
+    },
+    {
+      "customer": "Fine Care Pharmaceuticals (Pvt) Ltd",
+      "service": "QB AMC",
+      "last_start": "2024-11-28",
+      "last_end": "2025-11-27",
+      "last_amount": 15000.0
+    },
+    {
+      "customer": "Lead the Way Girls International (Pvt) Ltd",
+      "service": "QB CLOUD",
+      "last_start": "2025-09-01",
+      "last_end": "2025-11-30",
+      "last_amount": 10800.0
+    },
+    {
+      "customer": "Medilink Lanka (Pvt) Ltd",
+      "service": "QB CLOUD",
+      "last_start": "2025-07-01",
+      "last_end": "2025-09-30",
+      "last_amount": 10800.0
+    },
+    {
+      "customer": "Sri Delivery",
+      "service": "QB CLOUD",
+      "last_start": "2024-01-01",
+      "last_end": "2024-08-31",
+      "last_amount": 28000.0
+    },
+    {
+      "customer": "Trumps Solutions (Pvt) Ltd",
+      "service": "QB CLOUD",
+      "last_start": "2024-03-01",
+      "last_end": "2024-05-31",
+      "last_amount": 33000.0
+    },
+    {
+      "customer": "Kalrupco Management Services (Private) Limited (deleted)",
+      "service": "QB CLOUD",
+      "last_start": "2023-06-01",
+      "last_end": "2024-05-31",
+      "last_amount": 39600.0
+    },
+    {
+      "customer": "ASESKA Corporate Consultants (Pvt) Ltd:Amazing Tribes (Pvt) Ltd",
+      "service": "QB CLOUD",
+      "last_start": "2024-01-01",
+      "last_end": "2025-06-30",
+      "last_amount": 78000.0
+    },
+    {
+      "customer": "ASESKA Corporate Consultants (Pvt) Ltd:ICON Business School",
+      "service": "QB CLOUD",
+      "last_start": "2023-07-01",
+      "last_end": "2024-06-30",
+      "last_amount": 60000.0
+    },
+    {
+      "customer": "ASESKA Corporate Consultants (Pvt) Ltd:Villa Educational Services Lanka (Pvt) Ltd",
+      "service": "QB CLOUD",
+      "last_start": "2023-07-01",
+      "last_end": "2024-06-30",
+      "last_amount": 66000.0
+    },
+    {
+      "customer": "ASESKA Corporate Consultants (Pvt) Ltd:Bristol Institute of Business Management (Pvt) Ltd",
+      "service": "QB CLOUD",
+      "last_start": "2023-08-01",
+      "last_end": "2024-07-31",
+      "last_amount": 66000.0
+    },
+    {
+      "customer": "Asia Securities (Pvt) Ltd:Mandala Ventures (Pvt) Ltd",
+      "service": "QB CLOUD",
+      "last_start": "2024-01-01",
+      "last_end": "2025-05-31",
+      "last_amount": 5000.0
+    },
+    {
+      "customer": "ASESKA Corporate Consultants (Pvt) Ltd:Lala Restaurants & Hotels (Pvt) Ltd",
+      "service": "QB CLOUD",
+      "last_start": "2024-01-01",
+      "last_end": "2025-07-31",
+      "last_amount": 78000.0
+    },
+    {
+      "customer": "Dilchand (Pvt) Ltd",
+      "service": "QB CLOUD",
+      "last_start": "2024-01-01",
+      "last_end": "2025-07-31",
+      "last_amount": 78000.0
+    },
+    {
+      "customer": "ESOL College (Pvt) Ltd",
+      "service": "QB CLOUD",
+      "last_start": "2023-09-01",
+      "last_end": "2024-08-31",
+      "last_amount": 132000.0
+    },
+    {
+      "customer": "Perera Tyre Service (Pvt) Ltd (deleted)",
+      "service": "QB CLOUD",
+      "last_start": "2023-09-01",
+      "last_end": "2024-08-31",
+      "last_amount": 144000.0
+    },
+    {
+      "customer": "Wardena Group:Wardena Venture Holdings (Pvt) Ltd",
+      "service": "QB CLOUD",
+      "last_start": "2024-10-24",
+      "last_end": "2025-10-23",
+      "last_amount": 78000.0
+    },
+    {
+      "customer": "Jeewaayu (Private) Limited",
+      "service": "QB CLOUD",
+      "last_start": "2023-11-01",
+      "last_end": "2024-01-31",
+      "last_amount": 15000.0
+    },
+    {
+      "customer": "Andromeda HK Holdings (Pvt) Ltd (deleted)",
+      "service": "QB CLOUD",
+      "last_start": "2023-11-01",
+      "last_end": "2024-05-31",
+      "last_amount": 117000.0
+    },
+    {
+      "customer": "LYNEAR Wealth Management (Pvt) Limited",
+      "service": "QB CLOUD",
+      "last_start": "2024-01-01",
+      "last_end": "2025-10-31",
+      "last_amount": 156000.0
+    },
+    {
+      "customer": "Nine Nine Hardware City",
+      "service": "QB CLOUD",
+      "last_start": "2024-12-01",
+      "last_end": "2025-11-30",
+      "last_amount": 78000.0
+    },
+    {
+      "customer": "TBS International (Pvt) Ltd",
+      "service": "QB CLOUD",
+      "last_start": "2025-01-01",
+      "last_end": "2025-12-31",
+      "last_amount": 156000.0
+    },
+    {
+      "customer": "The Recovery Room",
+      "service": "QB CLOUD",
+      "last_start": "2025-01-01",
+      "last_end": "2025-12-31",
+      "last_amount": 72000.0
+    },
+    {
+      "customer": "Estilo Apparel (Pvt) Ltd",
+      "service": "QB CLOUD",
+      "last_start": "2025-01-01",
+      "last_end": "2025-12-31",
+      "last_amount": 78000.0
+    },
+    {
+      "customer": "Jaffna Horticulture (Pvt) Ltd",
+      "service": "QB CLOUD",
+      "last_start": "2024-01-01",
+      "last_end": "2024-02-29",
+      "last_amount": 12000.0
+    },
+    {
+      "customer": "Dress works Colombo (Pvt) Ltd",
+      "service": "QB CLOUD",
+      "last_start": "2025-02-01",
+      "last_end": "2026-01-31",
+      "last_amount": 168000.0
+    },
+    {
+      "customer": "Wardena Group:Wichy International PTE Ltd",
+      "service": "QB CLOUD",
+      "last_start": "2025-02-01",
+      "last_end": "2026-01-31",
+      "last_amount": 156000.0
+    },
+    {
+      "customer": "Bluestone Capital (Pvt) Ltd:Bluestone 4 (Pvt) Ltd",
+      "service": "QB CLOUD",
+      "last_start": "2025-01-01",
+      "last_end": "2025-12-31",
+      "last_amount": 48000.0
+    },
+    {
+      "customer": "ASESKA Corporate Consultants (Pvt) Ltd:Ceygreen Expedition (Pvt) Ltd",
+      "service": "QB CLOUD",
+      "last_start": "2024-01-01",
+      "last_end": "2025-05-31",
+      "last_amount": 84000.0
+    },
+    {
+      "customer": "Platinum Immigration Solutions (Pvt) Ltd.",
+      "service": "QB CLOUD",
+      "last_start": "2024-03-01",
+      "last_end": "2025-02-28",
+      "last_amount": 156000.0
+    },
+    {
+      "customer": "Emerging Media (Pvt) Ltd",
+      "service": "QB CLOUD",
+      "last_start": "2024-11-01",
+      "last_end": "2025-10-31",
+      "last_amount": 78000.0
+    },
+    {
+      "customer": "Kangara Holdings (Pvt) Ltd:Kangara Facility Management",
+      "service": "QB CLOUD",
+      "last_start": "2025-01-01",
+      "last_end": "2025-12-31",
+      "last_amount": 78000.0
+    },
+    {
+      "customer": "Zeus International (Pvt) Ltd",
+      "service": "QB CLOUD",
+      "last_start": "2024-02-01",
+      "last_end": "2025-01-31",
+      "last_amount": 234000.0
+    },
+    {
+      "customer": "Snap Ferd (Pvt) Ltd",
+      "service": "QBO PLUS",
+      "last_start": "2023-04-01",
+      "last_end": "2023-05-31",
+      "last_amount": 27830.0
+    }
+  ]
+}
